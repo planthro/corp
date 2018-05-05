@@ -2359,7 +2359,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
       <div class='contactBox'>
       <div class='icon lnr lnr-smartphone'/>
       <h3>Phone number</h3>
-      <p>+(12) 3456 789 </p>
+      <p>+1 (857) 529-7881 </p>
       </div>
 
       <div class='contactBox'>
@@ -2388,10 +2388,13 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
 
           <!-- SOCIAL ICONS -->
           <div class='col-md-6 col-sm-6 col-xs-12 footerRight'>
+            <a href='https://www.facebook.com/planthro' target='_blank'><i class='fa fa-facebook'/></a>            
             <a href='https://twitter.com/planthro' target='_blank'><i class='fa fa-twitter'/></a>
-            <a href='https://www.facebook.com/planthro' target='_blank'><i class='fa fa-facebook'/></a>
+            <a href='https://www.instagram.com/planthro/' target='_blank'><i class='fa fa-instagram'/></a>
+            <a href='#'><i class='fa fa-youtube'/></a>
+            <a href='https://www.pinterest.com/planthro/' target='_blank'><i class='fa fa-pinterest'/></a>            
             <a href='#'><i class='fa fa-linkedin'/></a>
-            <a href='#'><i class='fa fa-behance'/></a>
+            
           </div>
 
       </div>
