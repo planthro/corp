@@ -1685,9 +1685,7 @@ text-align: center;
 // JavaScript Document
 var _0x96a7=["\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","","\x69\x6D\x67","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x6C\x65\x6E\x67\x74\x68","\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22","\x73\x72\x63","\x22\x20\x2F\x3E","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x43\x61\x70\x74\x69\x6F\x6E\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x70\x43\x6F\x6E\x74\x65\x6E\x74\x22\x3E\x3C\x68\x33\x20\x63\x6C\x61\x73\x73\x3D\x22\x70\x6F\x73\x74\x2D\x74\x69\x74\x6C\x65\x20\x65\x6E\x74\x72\x79\x2D\x74\x69\x74\x6C\x65\x22\x20\x69\x74\x65\x6D\x70\x72\x6F\x70\x3D\x22\x6E\x61\x6D\x65\x22\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22","\x22\x3E","\x3C\x2F\x61\x3E\x3C\x2F\x68\x33\x3E\x3C\x61\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x70\x50\x72\x65\x76\x69\x65\x77\x20\x69\x6D\x61\x67\x65\x2D\x6D\x6F\x64\x61\x6C\x22\x20\x68\x72\x65\x66\x3D\x22","\x22\x3E\x52\x65\x61\x64\x20\x4D\x6F\x72\x65\x3C\x2F\x61\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E","\x66\x61\x64\x65\x4F\x75\x74","\x23\x6C\x6F\x61\x64\x65\x72\x49\x6E\x6E\x65\x72","\x73\x6C\x6F\x77","\x64\x65\x6C\x61\x79","\x23\x6C\x6F\x61\x64\x65\x72","\x2E\x6E\x61\x76\x69\x67\x61\x74\x69\x6F\x6E","\x73\x63\x72\x6F\x6C\x6C\x73\x70\x79","\x62\x6F\x64\x79","\x6C\x6F\x61\x64","\x6F\x6E\x6C\x6F\x61\x64","\x74\x65\x6D\x70\x6C\x61\x74\x65\x63\x6C\x75\x65","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x74\x65\x6D\x70\x6C\x61\x74\x65\x63\x6C\x75\x65\x2E\x63\x6F\x6D\x2F","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x72\x65\x66","\x64\x6F\x66\x6F\x6C\x6C\x6F\x77","\x74\x69\x74\x6C\x65","\x42\x6C\x6F\x67\x67\x65\x72\x20\x54\x65\x6D\x70\x6C\x61\x74\x65\x73"];var _0xf023=[_0x96a7[0],_0x96a7[1],_0x96a7[2],_0x96a7[3],_0x96a7[4],_0x96a7[5],_0x96a7[6],_0x96a7[7],_0x96a7[8],_0x96a7[9],_0x96a7[10],_0x96a7[11],_0x96a7[12],_0x96a7[13],_0x96a7[14],_0x96a7[15],_0x96a7[16],_0x96a7[17],_0x96a7[18],_0x96a7[19],_0x96a7[20],_0x96a7[21],_0x96a7[22],_0x96a7[23],_0x96a7[24],_0x96a7[25],_0x96a7[26],_0x96a7[27],_0x96a7[28],_0x96a7[29],_0x96a7[30],_0x96a7[31]];var _0xafd9=[_0xf023[0],_0xf023[1],_0xf023[2],_0xf023[3],_0xf023[4],_0xf023[5],_0xf023[6],_0xf023[7],_0xf023[8],_0xf023[9],_0xf023[10],_0xf023[11],_0xf023[12],_0xf023[13],_0xf023[14],_0xf023[15],_0xf023[16],_0xf023[17],_0xf023[18],_0xf023[19],_0xf023[20],_0xf023[21],_0xf023[22],_0xf023[23],_0xf023[24],_0xf023[25],_0xf023[26],_0xf023[27],_0xf023[28],_0xf023[29],_0xf023[30],_0xf023[31]];function rm(_0x7c0bx4){var _0x7c0bx5=document[_0xafd9[0]](_0x7c0bx4);imgtag=_0xafd9[1];img=_0x7c0bx5[_0xafd9[3]](_0xafd9[2]);if(img[_0xafd9[4]]>=1){imgtag=_0xafd9[5]+img[0][_0xafd9[6]]+_0xafd9[7]}else {imgtag=_0xafd9[1]};_0x7c0bx5[_0xafd9[8]]=imgtag+_0xafd9[9]+y+_0xafd9[10]+x+_0xafd9[11]+y+_0xafd9[12];}jQuery(window)[_0xafd9[21]](function(){jQuery(_0xafd9[14])[_0xafd9[13]]();jQuery(_0xafd9[17])[_0xafd9[16]](400)[_0xafd9[13]](_0xafd9[15]);$(_0xafd9[20])[_0xafd9[19]]({offset:200,target:_0xafd9[18]});});window[_0xafd9[22]]=function(){var _0x7c0bx6=document[_0xafd9[0]](_0xafd9[23]);if(_0x7c0bx6==null){window[_0xafd9[25]][_0xafd9[24]]=_0xafd9[26]};_0x7c0bx6[_0xafd9[27]](_0xafd9[24],_0xafd9[26]);_0x7c0bx6[_0xafd9[27]](_0xafd9[28],_0xafd9[29]);_0x7c0bx6[_0xafd9[27]](_0xafd9[30],_0xafd9[31]);_0x7c0bx6[_0xafd9[8]]=_0xafd9[31];};
 /*]]&gt;*/</script>
-<script>/*<![CDATA[*/
-var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","\x2E\x74\x65\x78\x74\x2D","\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x68\x6F\x76\x65\x72","\x2E\x63\x6F\x6E\x6E\x65\x63\x74\x2D\x69\x63\x6F\x6E\x73\x20\x61","\x72\x65\x61\x64\x79","\x6F\x6E\x6C\x6F\x61\x64","\x74\x65\x6D\x70\x6C\x61\x74\x65\x63\x6C\x75\x65","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x74\x65\x6D\x70\x6C\x61\x74\x65\x63\x6C\x75\x65\x2E\x63\x6F\x6D\x2F","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x72\x65\x66","\x64\x6F\x66\x6F\x6C\x6C\x6F\x77","\x74\x69\x74\x6C\x65","\x42\x6C\x6F\x67\x67\x65\x72\x20\x54\x65\x6D\x70\x6C\x61\x74\x65\x73","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C"];$(window)[_0x38ea[6]](function(){$(_0x38ea[5])[_0x38ea[4]](function(){$(_0x38ea[2]+this[_0x38ea[3]])[_0x38ea[1]](_0x38ea[0])})});window[_0x38ea[7]]=function(){var _0x9573x1=document[_0x38ea[9]](_0x38ea[8]);if(_0x9573x1==null){window[_0x38ea[11]][_0x38ea[10]]=_0x38ea[12]};_0x9573x1[_0x38ea[13]](_0x38ea[10],_0x38ea[12]);_0x9573x1[_0x38ea[13]](_0x38ea[14],_0x38ea[15]);_0x9573x1[_0x38ea[13]](_0x38ea[16],_0x38ea[17]);_0x9573x1[_0x38ea[18]]=_0x38ea[17];};
-/*]]>*/</script>
+
 
 
 </head>
@@ -1856,7 +1854,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
                   </div>
 
                   <div class='col-md-4 aboutMe aboutProfile wow fadeInUp animated' style='visibility: visible;'>
-                    <h1>Platform anthrpocene is &#39;planthro&#39;</h1>
+                    <h1>Platform anthrpocene is <i class='resumeName'>plantrho</i></h1>
       <!-- Porfile Av -->
          <img alt='planthro logo' class='profileAv centered' src='https://1.bp.blogspot.com/-W1zO2rEOqEQ/Wu0OLbBIDxI/AAAAAAAABOM/D9JNpCQWvBYdYIzsM2Ukk1L9GZAgv4kPgCLcBGAs/s1600/Pa1200X1200.png'/>
       <!-- Porfile Av End-->
@@ -1864,30 +1862,27 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
 
                   <div class='col-md-4 aboutMe aboutInfo wow fadeInUp animated' style='visibility: visible;'>
                   <h1>Disclosures</h1>
-                    <h3>Platform anthropocene</h3>
+                    <h3>Some sub-header if needed</h3>
                    <div class='profileInfo'>
                       <p>
                         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
                       </p>
 
                     <h5>
-                      Birthday:
-                        21 SEP 1986
+                      Incorporated:
+                        17 Jan 2017
                     </h5>
 
                     <h5>
-                        Phone number:
-                        +(12) 34 567 89
+                        <a>NY DOS</a>
                     </h5>
 
                     <h5>
-                        Website:
-                        www.dakshbhagya.com
+                        <a>US IRS</a>
                     </h5>
 
                     <h5>
-                        E-mail:
-                        Me@dakshbhagya.com
+                        <a>Financials</a>
                     </h5>
 
                     </div>
@@ -1924,7 +1919,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
 
             <h1>Projects</h1>
 
-              <h4>Activities and output by planthro</h4>
+              <h4>Activities and output by <i class='resumeName'>planthro</i></h4>
 
                 <div class='separatorlineblack'/>
           <hr/>
@@ -1934,32 +1929,32 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
       <!-- resume LEFT -->
       <div class='col-md-6 col-sm-6 col-xs-12 resumeLeft'>
 
-        <h2>Employment</h2>
+        <h2>Ongoing effort</h2>
 
           <span class='lnr lnr-briefcase wow bounceIn animated animated' style='visibility: visible;'/>
 
            <ul class='resumeList'>
 
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
-                <b class='resumePeriod'>2015-future</b>          
+                <b class='resumePeriod'>2015-ongoing</b>          
                   <h4>
-                  <i class='resumeName'>Mutation Media</i> @ Web Developer
+                  <i class='resumeName'>planthro</i> Corporate Development
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>  
 
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
-                <b class='resumePeriod'>2011-2014</b>          
+                <b class='resumePeriod'>2016-ongoing</b>          
                   <h4>
-                  <i class='resumeName'>Websoham</i> @ Exclusive Admin
+                  <i class='resumeName'>planthro</i> BIBLIO
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>  
 
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
-                <b class='resumePeriod'>2009-2011</b>          
+                <b class='resumePeriod'>2017-ongoing</b>          
                   <h4>
-                  <i class='resumeName'>Templateclue.com</i> @ Lead Developer
+                  <i class='resumeName'>planthro</i> OUTREACH
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>  
@@ -1971,32 +1966,32 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
       <!-- resume RIGHT -->
       <div class='col-md-6 col-sm-6 col-xs-12 resumeRight'>
 
-        <h2>Education</h2>
+        <h2>Future directions</h2>
 
           <span class='lnr lnr-spell-check wow bounceIn animated animated' style='visibility: visible;'/>
 
             <ul class='resumeList'>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>2015</b>
+                <b class='resumePeriod'>late 2018 onwards</b>
                   <h4>
-                  University of Engineering <i class='resumeName'>@Level</i>
+                  <i class='resumeName'>planthro</i> WIKI, OPINIONS, EXCHANGE 
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>2013-2014</b>
+                <b class='resumePeriod'>2019 onwards</b>
                   <h4>
-                  College of Awesomeness @ <i class='resumeName'>passed</i>
+                  <i class='resumeName'>planthro</i> ANALYTICS suite
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>2009-2013</b>
+                <b class='resumePeriod'>late 2019 onwards</b>
                   <h4>
-                  College of Informatics @ <i class='resumeName'>graduated</i>
+                  <i class='resumeName'>plantrho</i> INSTITUTE, LIVE EVENTS
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>
@@ -2013,7 +2008,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='resumeStats'>
 
           <span class='lnr lnr-heart wow bounceIn animated' style='visibility: visible;'/>
-          <h2>Impact &amp; Outreach</h2>
+          <h2>Impact to date</h2>
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
@@ -2142,7 +2137,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1>Collaborators</h1>
-        <h4>The people creating planthro</h4>
+        <h4>Key people running <i class='resumeName'>planthro</i></h4>
           <hr/>
         </div>
       <!-- END section TITLE -->
@@ -2285,7 +2280,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
     <!-- section TITLE -->
       <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1 style='color: #cccccc;'>Donate</h1>
-        <h4 style='color: #cccccc;'>Seeking financial support for planthro</h4>
+        <h4 style='color: #cccccc;'>Seeking financial support for <i class='resumeName'>planthro</i></h4>
         <hr/>
       </div>
     <!-- END section TITLE -->
@@ -2307,7 +2302,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1>Contact</h1>
-        <h4>Get in touch with me</h4>
+        <h4>Reach out to <i class='resumeName'>planthro</i></h4>
           <hr/>
         </div>
       <!-- END section TITLE -->
@@ -2383,7 +2378,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
           <!-- COPYRIGHT-->
           <div class='col-md-6 col-sm-6 col-xs-12 footerLeft'>
             Free content by <data:blog.title/> under Creative Commons.
-            <a herf='http://www.templateclue.com/' id='templateclue' style='visibility: hidden' title='Blogger Templates'/>.
+            <a herf='http://www.templateclue.com/' id='templateclue' style='visibility: hidden' title='Blogger Templates'/>
           </div>
 
           <!-- SOCIAL ICONS -->
@@ -2406,10 +2401,6 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
       </section>
 
  
-<script type='text/javascript'>
-/*<![CDATA[*/
-var _0x1715=["\x62\x6F\x64\x79","\x2E\x63\x6F\x6E\x74\x65\x6E\x74\x2D\x77\x72\x61\x70","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72","\x6F\x70\x65\x6E\x2D\x62\x75\x74\x74\x6F\x6E","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x63\x6C\x6F\x73\x65\x2D\x62\x75\x74\x74\x6F\x6E","\x63\x6C\x69\x63\x6B","\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x74\x61\x72\x67\x65\x74","\x73\x68\x6F\x77\x2D\x6D\x65\x6E\x75","\x72\x65\x6D\x6F\x76\x65","\x61\x64\x64","\x75\x73\x65\x20\x73\x74\x72\x69\x63\x74","\x70\x72\x6F\x63\x65\x73\x73","\x70\x72\x6F\x78\x79","\x24\x65\x6C\x65\x6D\x65\x6E\x74","\x69\x73","\x24\x62\x6F\x64\x79","\x24\x73\x63\x72\x6F\x6C\x6C\x45\x6C\x65\x6D\x65\x6E\x74","\x73\x63\x72\x6F\x6C\x6C\x2E\x62\x73\x2E\x73\x63\x72\x6F\x6C\x6C\x2D\x73\x70\x79\x2E\x64\x61\x74\x61\x2D\x61\x70\x69","\x6F\x6E","\x6F\x70\x74\x69\x6F\x6E\x73","\x65\x78\x74\x65\x6E\x64","\x73\x65\x6C\x65\x63\x74\x6F\x72","\x68\x72\x65\x66","\x61\x74\x74\x72","","\x72\x65\x70\x6C\x61\x63\x65","\x20\x2E\x6E\x61\x76\x62\x61\x72\x20\x6C\x69\x20\x3E\x20\x61","\x6F\x66\x66\x73\x65\x74\x73","\x74\x61\x72\x67\x65\x74\x73","\x61\x63\x74\x69\x76\x65\x54\x61\x72\x67\x65\x74","\x72\x65\x66\x72\x65\x73\x68","\x44\x45\x46\x41\x55\x4C\x54\x53","\x70\x72\x6F\x74\x6F\x74\x79\x70\x65","\x6F\x66\x66\x73\x65\x74","\x70\x6F\x73\x69\x74\x69\x6F\x6E","\x70\x75\x73\x68","\x65\x61\x63\x68","\x73\x6F\x72\x74","\x64\x61\x74\x61","\x74\x65\x73\x74","\x6C\x65\x6E\x67\x74\x68","\x3A\x76\x69\x73\x69\x62\x6C\x65","\x74\x6F\x70","\x67\x65\x74","\x69\x73\x57\x69\x6E\x64\x6F\x77","\x73\x63\x72\x6F\x6C\x6C\x54\x6F\x70","\x6D\x61\x70","\x66\x69\x6E\x64","\x73\x63\x72\x6F\x6C\x6C\x48\x65\x69\x67\x68\x74","\x68\x65\x69\x67\x68\x74","\x6C\x61\x73\x74","\x61\x63\x74\x69\x76\x61\x74\x65","\x61\x63\x74\x69\x76\x65","\x72\x65\x6D\x6F\x76\x65\x43\x6C\x61\x73\x73","\x2E\x61\x63\x74\x69\x76\x65","\x70\x61\x72\x65\x6E\x74\x73\x55\x6E\x74\x69\x6C","\x5B\x64\x61\x74\x61\x2D\x74\x61\x72\x67\x65\x74\x3D\x22","\x22\x5D\x2C","\x5B\x68\x72\x65\x66\x3D\x22","\x22\x5D","\x61\x64\x64\x43\x6C\x61\x73\x73","\x6C\x69","\x70\x61\x72\x65\x6E\x74\x73","\x2E\x64\x72\x6F\x70\x64\x6F\x77\x6E\x2D\x6D\x65\x6E\x75","\x70\x61\x72\x65\x6E\x74","\x6C\x69\x2E\x64\x72\x6F\x70\x64\x6F\x77\x6E","\x63\x6C\x6F\x73\x65\x73\x74","\x61\x63\x74\x69\x76\x61\x74\x65\x2E\x62\x73\x2E\x73\x63\x72\x6F\x6C\x6C\x73\x70\x79","\x74\x72\x69\x67\x67\x65\x72","\x73\x63\x72\x6F\x6C\x6C\x73\x70\x79","\x66\x6E","\x62\x73\x2E\x73\x63\x72\x6F\x6C\x6C\x73\x70\x79","\x6F\x62\x6A\x65\x63\x74","\x73\x74\x72\x69\x6E\x67","\x43\x6F\x6E\x73\x74\x72\x75\x63\x74\x6F\x72","\x6E\x6F\x43\x6F\x6E\x66\x6C\x69\x63\x74","\x6C\x6F\x61\x64","\x5B\x64\x61\x74\x61\x2D\x73\x70\x79\x3D\x22\x73\x63\x72\x6F\x6C\x6C\x22\x5D","\x6F\x6E\x6C\x6F\x61\x64","\x74\x65\x6D\x70\x6C\x61\x74\x65\x63\x6C\x75\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x74\x65\x6D\x70\x6C\x61\x74\x65\x63\x6C\x75\x65\x2E\x63\x6F\x6D\x2F","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x72\x65\x66","\x64\x6F\x66\x6F\x6C\x6C\x6F\x77","\x74\x69\x74\x6C\x65","\x42\x6C\x6F\x67\x67\x65\x72\x20\x54\x65\x6D\x70\x6C\x61\x74\x65\x73","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C"];var _0x6c05=[_0x1715[0],_0x1715[1],_0x1715[2],_0x1715[3],_0x1715[4],_0x1715[5],_0x1715[6],_0x1715[7],_0x1715[8],_0x1715[9],_0x1715[10],_0x1715[11],_0x1715[12],_0x1715[13],_0x1715[14],_0x1715[15],_0x1715[16],_0x1715[17],_0x1715[18],_0x1715[19],_0x1715[20],_0x1715[21],_0x1715[22],_0x1715[23],_0x1715[24],_0x1715[25],_0x1715[26],_0x1715[27],_0x1715[28],_0x1715[29],_0x1715[30],_0x1715[31],_0x1715[32],_0x1715[33],_0x1715[34],_0x1715[35],_0x1715[36],_0x1715[37],_0x1715[38],_0x1715[39],_0x1715[40],_0x1715[41],_0x1715[42],_0x1715[43],_0x1715[44],_0x1715[45],_0x1715[46],_0x1715[47],_0x1715[48],_0x1715[49],_0x1715[50],_0x1715[51],_0x1715[52],_0x1715[53],_0x1715[54],_0x1715[55],_0x1715[56],_0x1715[57],_0x1715[58],_0x1715[59],_0x1715[60],_0x1715[61],_0x1715[62],_0x1715[63],_0x1715[64],_0x1715[65],_0x1715[66],_0x1715[67],_0x1715[68],_0x1715[69],_0x1715[70],_0x1715[71],_0x1715[72],_0x1715[73],_0x1715[74],_0x1715[75],_0x1715[76],_0x1715[77],_0x1715[78],_0x1715[79],_0x1715[80],_0x1715[81],_0x1715[82],_0x1715[83],_0x1715[84],_0x1715[85],_0x1715[86],_0x1715[87],_0x1715[88],_0x1715[89]];(function(){var _0x7c65x2=document[_0x6c05[0]],_0x7c65x3=document[_0x6c05[2]](_0x6c05[1]),_0x7c65x4=document[_0x6c05[4]](_0x6c05[3]),_0x7c65x5=document[_0x6c05[4]](_0x6c05[5]),_0x7c65x6=false;function _0x7c65x7(){_0x7c65x8()}function _0x7c65x8(){_0x7c65x4[_0x6c05[7]](_0x6c05[6],_0x7c65xb);if(_0x7c65x5){_0x7c65x5[_0x6c05[7]](_0x6c05[6],_0x7c65xb)};_0x7c65x3[_0x6c05[7]](_0x6c05[6],function(_0x7c65x9){var _0x7c65xa=_0x7c65x9[_0x6c05[8]];if(_0x7c65x6&&_0x7c65xa!==_0x7c65x4){_0x7c65xb()};});}function _0x7c65xb(){if(_0x7c65x6){classie[_0x6c05[10]](_0x7c65x2,_0x6c05[9])}else {classie[_0x6c05[11]](_0x7c65x2,_0x6c05[9])};_0x7c65x6= !_0x7c65x6;}_0x7c65x7();})();+function(_0x7c65xc){_0x6c05[12];function _0x7c65xd(_0x7c65xe,_0x7c65xf){var _0x7c65x10;var _0x7c65x11=_0x7c65xc[_0x6c05[14]](this[_0x6c05[13]],this);this[_0x6c05[15]]=_0x7c65xc(_0x7c65xe)[_0x6c05[16]](_0x6c05[0])?_0x7c65xc(window):_0x7c65xc(_0x7c65xe);this[_0x6c05[17]]=_0x7c65xc(_0x6c05[0]);this[_0x6c05[18]]=this[_0x6c05[15]][_0x6c05[20]](_0x6c05[19],_0x7c65x11);this[_0x6c05[21]]=_0x7c65xc[_0x6c05[22]]({},_0x7c65xd.DEFAULTS,_0x7c65xf);this[_0x6c05[23]]=(this[_0x6c05[21]][_0x6c05[8]]||((_0x7c65x10=_0x7c65xc(_0x7c65xe)[_0x6c05[25]](_0x6c05[24]))&&_0x7c65x10[_0x6c05[27]](/.*(?=#[^\s]+$)/,_0x6c05[26]))||_0x6c05[26])+_0x6c05[28];this[_0x6c05[29]]=_0x7c65xc([]);this[_0x6c05[30]]=_0x7c65xc([]);this[_0x6c05[31]]=null;this[_0x6c05[32]]();this[_0x6c05[13]]();}_0x7c65xd[_0x6c05[33]]={offset:10};_0x7c65xd[_0x6c05[34]][_0x6c05[32]]=function(){var _0x7c65x12=this[_0x6c05[15]][0]==window?_0x6c05[35]:_0x6c05[36];this[_0x6c05[29]]=_0x7c65xc([]);this[_0x6c05[30]]=_0x7c65xc([]);var _0x7c65x13=this;var _0x7c65x14=this[_0x6c05[17]][_0x6c05[49]](this[_0x6c05[23]])[_0x6c05[48]](function(){var _0x7c65x17=_0x7c65xc(this);var _0x7c65x10=_0x7c65x17[_0x6c05[40]](_0x6c05[8])||_0x7c65x17[_0x6c05[25]](_0x6c05[24]);var _0x7c65x18=/^#./[_0x6c05[41]](_0x7c65x10)&&_0x7c65xc(_0x7c65x10);return (_0x7c65x18&&_0x7c65x18[_0x6c05[42]]&&_0x7c65x18[_0x6c05[16]](_0x6c05[43])&&[[_0x7c65x18[_0x7c65x12]()[_0x6c05[44]]+(!_0x7c65xc[_0x6c05[46]](_0x7c65x13[_0x6c05[18]][_0x6c05[45]](0))&&_0x7c65x13[_0x6c05[18]][_0x6c05[47]]()),_0x7c65x10]])||null;})[_0x6c05[39]](function(_0x7c65x15,_0x7c65x16){return _0x7c65x15[0]-_0x7c65x16[0]})[_0x6c05[38]](function(){_0x7c65x13[_0x6c05[29]][_0x6c05[37]](this[0]);_0x7c65x13[_0x6c05[30]][_0x6c05[37]](this[1]);});};_0x7c65xd[_0x6c05[34]][_0x6c05[13]]=function(){var _0x7c65x19=this[_0x6c05[18]][_0x6c05[47]]()+this[_0x6c05[21]][_0x6c05[35]];var _0x7c65x1a=this[_0x6c05[18]][0][_0x6c05[50]]||this[_0x6c05[17]][0][_0x6c05[50]];var _0x7c65x1b=_0x7c65x1a-this[_0x6c05[18]][_0x6c05[51]]();var _0x7c65x1c=this[_0x6c05[29]];var _0x7c65x1d=this[_0x6c05[30]];var _0x7c65x1e=this[_0x6c05[31]];var _0x7c65x1f;if(_0x7c65x19>=_0x7c65x1b){return _0x7c65x1e!=(_0x7c65x1f=_0x7c65x1d[_0x6c05[52]]()[0])&&this[_0x6c05[53]](_0x7c65x1f)};if(_0x7c65x1e&&_0x7c65x19<=_0x7c65x1c[0]){return _0x7c65x1e!=(_0x7c65x1f=_0x7c65x1d[0])&&this[_0x6c05[53]](_0x7c65x1f)};for(_0x7c65x1f=_0x7c65x1c[_0x6c05[42]];_0x7c65x1f--;){_0x7c65x1e!=_0x7c65x1d[_0x7c65x1f]&&_0x7c65x19>=_0x7c65x1c[_0x7c65x1f]&&(!_0x7c65x1c[_0x7c65x1f+1]||_0x7c65x19<=_0x7c65x1c[_0x7c65x1f+1])&&this[_0x6c05[53]](_0x7c65x1d[_0x7c65x1f])};};_0x7c65xd[_0x6c05[34]][_0x6c05[53]]=function(_0x7c65xa){this[_0x6c05[31]]=_0x7c65xa;_0x7c65xc(this[_0x6c05[23]])[_0x6c05[57]](this[_0x6c05[21]][_0x6c05[8]],_0x6c05[56])[_0x6c05[55]](_0x6c05[54]);var _0x7c65x20=this[_0x6c05[23]]+_0x6c05[58]+_0x7c65xa+_0x6c05[59]+this[_0x6c05[23]]+_0x6c05[60]+_0x7c65xa+_0x6c05[61];var _0x7c65x21=_0x7c65xc(_0x7c65x20)[_0x6c05[64]](_0x6c05[63])[_0x6c05[62]](_0x6c05[54]);if(_0x7c65x21[_0x6c05[66]](_0x6c05[65])[_0x6c05[42]]){_0x7c65x21=_0x7c65x21[_0x6c05[68]](_0x6c05[67])[_0x6c05[62]](_0x6c05[54])};_0x7c65x21[_0x6c05[70]](_0x6c05[69]);};var _0x7c65x22=_0x7c65xc[_0x6c05[72]][_0x6c05[71]];_0x7c65xc[_0x6c05[72]][_0x6c05[71]]=function(_0x7c65x23){return this[_0x6c05[38]](function(){var _0x7c65x24=_0x7c65xc(this);var _0x7c65x25=_0x7c65x24[_0x6c05[40]](_0x6c05[73]);var _0x7c65xf= typeof _0x7c65x23==_0x6c05[74]&&_0x7c65x23;if(!_0x7c65x25){_0x7c65x24[_0x6c05[40]](_0x6c05[73],(_0x7c65x25= new _0x7c65xd(this,_0x7c65xf)))};if( typeof _0x7c65x23==_0x6c05[75]){_0x7c65x25[_0x7c65x23]()};})};_0x7c65xc[_0x6c05[72]][_0x6c05[71]][_0x6c05[76]]=_0x7c65xd;_0x7c65xc[_0x6c05[72]][_0x6c05[71]][_0x6c05[77]]=function(){_0x7c65xc[_0x6c05[72]][_0x6c05[71]]=_0x7c65x22;return this;};_0x7c65xc(window)[_0x6c05[20]](_0x6c05[78],function(){_0x7c65xc(_0x6c05[79])[_0x6c05[38]](function(){var _0x7c65x26=_0x7c65xc(this);_0x7c65x26[_0x6c05[71]](_0x7c65x26[_0x6c05[40]]());})});}(jQuery);window[_0x6c05[80]]=function(){var _0x7c65x27=document[_0x6c05[4]](_0x6c05[81]);if(_0x7c65x27==null){window[_0x6c05[82]][_0x6c05[24]]=_0x6c05[83]};_0x7c65x27[_0x6c05[84]](_0x6c05[24],_0x6c05[83]);_0x7c65x27[_0x6c05[84]](_0x6c05[85],_0x6c05[86]);_0x7c65x27[_0x6c05[84]](_0x6c05[87],_0x6c05[88]);_0x7c65x27[_0x6c05[89]]=_0x6c05[88];};
-/*]]>*/</script>
 
 <!-- OWL SLIDER & WOW ANIMATIONS -->
 
