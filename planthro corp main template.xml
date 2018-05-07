@@ -2097,7 +2097,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
               18
             </div>
             <div class='statsName'>
-              Countries represented
+              Countries
             </div>
           </div>
 
@@ -2106,7 +2106,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
               450 <!--<span class='lnr lnr-pencil'/>-->
             </div>
             <div class='statsName'>
-             People Following
+             Followers
             </div>
           </div>
 
@@ -2208,7 +2208,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='servicesRight'>
         <h3>Andrea Balbo</h3>
           <p>
-   			Andrea is the lead subject matter expert and chief editor. His research expertise is in long-term study of human-environment interaction, and integrating qualitative and quantitative modeling of complex socio-ecological systems. He holds a PhD in Archaeology and Anthropology from the University of Cambridge, UK. Andrea lives in Geneva.
+   			Andrea is the lead subject matter expert and chief editor. His expertise is long-term study of human-environment interaction, and integrated qualitative &amp; quantitative modeling of complex socio-ecological systems. He holds a PhD in Archaeology &amp; Anthropology from the Cambridge University. Andrea lives in Geneva.
           </p>
         </div>
       </div>
@@ -2246,7 +2246,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='servicesRight'>
         <h3>Eiti Batra</h3>
           <p>
-          Eiti leads the social media strategy, promoting awareness and community engagement. She holds a Tech-MBA from Carnegie Mellon. She has 8+ years experience in large enterprise IT budgeting, strategy &amp; partnerships for digital products. Eiti lives in New York. 
+          Eiti leads the social media strategy, promoting awareness and community engagement. She holds Technology MBA from Carnegie Mellon University. She has 8+ years experience in large enterprise IT budgeting, technology strategy including forging FinTech partnerships for enterprises. Eiti lives in New York. 
           </p>
         </div>
       </div>
@@ -2348,7 +2348,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1>Endorsements</h1>
-        <h4>Experts affirming<i class='resumeName'>#planthro</i></h4>
+        <h4>Experts affirming <i class='resumeName'>#planthro</i></h4>
           <hr/>
         </div>
       <!-- END section TITLE -->
@@ -2363,9 +2363,9 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
           <span class='icon lnr lnr-star'/>
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 1</h3>
+        <h3>Martin Beniston</h3>
           <p>
-   			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+   			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
@@ -2375,9 +2375,9 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
           <span class='icon lnr lnr-laptop'/>
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 2</h3>
+        <h3>Julian Burger</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
@@ -2387,9 +2387,9 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
           <span class='icon lnr lnr-pencil'/>
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 3</h3>
+        <h3>Erle Ellis</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
@@ -2401,9 +2401,9 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
           <span class='icon lnr lnr-cog'/>
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 4</h3>
+        <h3>Paul Vlek</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet. 
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
@@ -2415,7 +2415,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='EndorsementsRight'>
         <h3>Endorser 5</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
@@ -2427,7 +2427,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='EndorsementsRight'>
         <h3>Endorser 6</h3>
           <p>
-    			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+    			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
@@ -2441,7 +2441,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='EndorsementsRight'>
         <h3>Endorser 7</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
@@ -2453,7 +2453,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='EndorsementsRight'>
         <h3>Endorser 8</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
@@ -2465,7 +2465,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='EndorsementsRight'>
         <h3>Endorser 9</h3>
           <p>
-    			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+    			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
       </div>
