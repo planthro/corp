@@ -36,7 +36,6 @@
   <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet'/>
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'/>
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'/>
 
     <b:skin><![CDATA[/*
 //////////////////////////////////////////////////////////////
@@ -650,6 +649,8 @@ text-align: center;
   color: #666;
   font-size: 12px;
   text-transform: lowercase;
+  font-family: "Open Sans", "serif";
+  font-weight: 300;
 }
 .resumeList p {
   font-size: 14px;
@@ -1306,6 +1307,14 @@ input.submit:hover, .input.submit:focus, .input.submit:active {
   letter-spacing: 0px;
   font-size: 14px;
 }
+
+/* 11. Over-rides
+-------------------------------------------------*/
+.paoverride {
+  font-family: "Open Sans", "serif";
+  font-weight: 300;
+  text-transform: none;
+}
 /*****************************************
 Comments CSS
 ******************************************/
@@ -1841,8 +1850,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         </div>
 
                   <div class='col-md-4 aboutMe aboutStory wow fadeInUp animated' style='visibility: visible;'>
-                  
-                  <h1>Mission</h1>
+                   <h1>Mission</h1>
                     <p>
 
                       <span class='textBlue'>
@@ -1856,18 +1864,19 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
                   </div>
 
                   <div class='col-md-4 aboutMe aboutProfile wow fadeInUp animated' style='visibility: visible;'>
-                    <h1>Platform anthrpocene is <i class='resumeName'>plantrho</i></h1>
+                    <h1><span class='paoverride' style='font-size: 12px;'>Platform anthropocene</span> is <i class='resumeName'>plantrho</i></h1>
       <!-- Porfile Av -->
          <img alt='planthro logo' class='profileAv centered' src='https://1.bp.blogspot.com/-W1zO2rEOqEQ/Wu0OLbBIDxI/AAAAAAAABOM/D9JNpCQWvBYdYIzsM2Ukk1L9GZAgv4kPgCLcBGAs/s1600/Pa1200X1200.png'/>
       <!-- Porfile Av End-->
                   </div>
 
                   <div class='col-md-4 aboutMe aboutInfo wow fadeInUp animated' style='visibility: visible;'>
-                  <h1>Disclosures</h1>
-                    <h3>Some sub-header if needed</h3>
-                   <div class='profileInfo'>
+                   <h1>Disclosures</h1>
+                    <!--<h3>Some sub-header if needed</h3>-->
                       <p>
-                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+                        <span class='textBlue'>
+                          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+                        </span>
                       </p>
 
                     <h5>
@@ -1876,19 +1885,18 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
                     </h5>
 
                     <h5>
-                        <a>NY DOS</a>
+                        <a>NY State</a>
                     </h5>
 
                     <h5>
-                        <a>US IRS</a>
+                        <a>IRS</a>
                     </h5>
 
                     <h5>
                         <a>Financials</a>
                     </h5>
 
-                    </div>
-
+<!-- Use this as disclosure link list if needed
                     <div class='infoSocial'>
                     <ul>
                       <li><a href='#'><i class='fa fa-twitter'/></a></li>
@@ -1897,7 +1905,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
                       <li><a href='#'><i class='fa fa-behance'/></a></li>
                     </ul>
                     </div>               
-
+-->
                   </div>
 
 
