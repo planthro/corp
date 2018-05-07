@@ -32,7 +32,7 @@
   <script src=''/>
   <!-- CSS Files -->
   <link href='https://cdn.linearicons.com/free/1.0.0/icon-font.min.css' rel='stylesheet'/>
-  <link href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" rel='stylesheet'/>
+  <link href='https://use.fontawesome.com/releases/v5.0.12/css/all.css' rel='stylesheet'/>
 
 
     <!-- Google Fonts -->
@@ -1040,11 +1040,53 @@ text-transform:capitalize;
     padding-right: 2%;
 }
 
-/* 8.5 Section Donate
+/* 8.3 Section Donate
 -------------------------------------------------*/
 #sectionDonate {
     background: none repeat scroll 0 0 #000000;
     padding-bottom: 50px;
+}
+
+/* 8.6 Section Endorsements
+-------------------------------------------------*/
+#sectionEndorsements {
+    background: none repeat scroll 0 0 #efefef;
+    padding-bottom: 50px;
+}
+.EndorsementsCol4 {
+    min-height: 215px;
+    overflow: hidden;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.EndorsementsCol4 h3 {
+  font-family: "Montserrat",sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: left;
+    text-transform: uppercase;
+}
+.EndorsementsCol4 p {
+    font-family: inherit;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 10px;
+    text-align: left;
+}
+.EndorsementsCol4 span {
+    color: #3dc9b3;
+    font-size: 40px;
+    text-align: center;
+}
+.EndorsementsLeft {
+    float: left;
+}
+.EndorsementsRight {
+    padding-left: 23%;
+    padding-right: 2%;
 }
 
 /* 9. Section Contact
@@ -1716,6 +1758,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
             <li><a class='easing' href='#sectionResume'>Projects</a></li>
             <li><a class='easing' href='#sectionServices'>Collaborators</a></li>
             <li><a class='easing' href='#sectionDonate'>Donate</a></li>
+            <li><a class='easing' href='#sectionEndorsements'>Endorsements</a></li>
             <li><a class='easing' href='#sectionContact'>Contact</a></li>                        
            </ul>           
         </nav>
@@ -2032,10 +2075,10 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInRight animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              450
+              21
             </div>
             <div class='statsName'>
-              People following
+              Volunteers
             </div>
           </div>
 
@@ -2051,19 +2094,19 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInRight animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              21
+              18
             </div>
             <div class='statsName'>
-              Volunteers
+              Countries represented
             </div>
           </div>
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              11 <!--<span class='lnr lnr-pencil'/>-->
+              450 <!--<span class='lnr lnr-pencil'/>-->
             </div>
             <div class='statsName'>
-             Countries
+             People Following
             </div>
           </div>
 
@@ -2165,7 +2208,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='servicesRight'>
         <h3>Andrea Balbo</h3>
           <p>
-   			Andrea is the lead subject matter expert, chief editor. His research expertise is on the long-term study of human-environment interaction, and integrating qualitative and quantitative modeling of complex socio-ecological systems. He holds a PhD in Archaeology and Anthropology from the University of Cambridge, UK. Andrea lives on the French side near Geneva.
+   			Andrea is the lead subject matter expert and chief editor. His research expertise is in long-term study of human-environment interaction, and integrating qualitative and quantitative modeling of complex socio-ecological systems. He holds a PhD in Archaeology and Anthropology from the University of Cambridge, UK. Andrea lives in Geneva.
           </p>
         </div>
       </div>
@@ -2177,7 +2220,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='servicesRight'>
         <h3>Vasavi Vittal</h3>
           <p>
-          Vasavi is leading the strategy and corporate development functions. She has 10+ years experience in finance, strategy, investment management and investment advisory. She holds a Masters degree in Biochemistry from the University of Maryland, and a MBA from the University of Oxford. Vasavi lives in London, UK.
+          Vasavi is leading the strategy and corporate development functions. She has 10+ years experience in finance, strategy, investment management and investment advisory. She holds a Masters in Biochemistry from the University of Maryland, and a MBA from the University of Oxford. Vasavi lives in London, UK.
           </p>
         </div>
       </div>
@@ -2189,7 +2232,7 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
         <div class='servicesRight'>
         <h3>Madhura Chikhalikar</h3>
           <p>
-          Madhura advises on corporate finance, compliance, and legal matters. She has 10+ years of experience in corporate audit, corporate compliance, financial control, and CFO office functions. She is CFA charter holder and is also a Certified Public Accountant. She has a post graduation degree in management from Jamnalal Bajaj Institute. Madhura lives in Gurgaon, India.
+          Madhura advises on corporate finance, compliance, and legal matters. She has 10+ years of experience with large corporations in  audit, compliance, financial control, and CFO office functions. She holds CFA and CPA charters and MBA from Jamnalal Bajaj Institute, Mumbai. Madhura lives in Gurgaon, India.
           </p>
         </div>
       </div>
@@ -2298,6 +2341,148 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
 </section>
 <!-- Section Donate End-->
 
+
+<!-- Section Endorsements  -->
+<section id='sectionEndorsements'>
+      <div class='container wow fadeInUp animated' style='visibility: visible;'>
+      <!-- section TITLE -->
+        <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
+        <h1>Endorsements</h1>
+        <h4>Experts affirming<i class='resumeName'>#planthro</i></h4>
+          <hr/>
+        </div>
+      <!-- END section TITLE -->
+      <div class='container'>
+
+      <div class='row EndorsementsRow'>
+
+      <!--Endorsements-->
+
+      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-star'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 1</h3>
+          <p>
+   			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          </p>
+        </div>
+      </div>
+
+      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-laptop'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 2</h3>
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          </p>
+        </div>
+      </div>
+
+      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-pencil'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 3</h3>
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          </p>
+        </div>
+      </div>
+
+    <!--Endorsements second-row-->
+
+      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-cog'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 4</h3>
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet. 
+          </p>
+        </div>
+      </div>
+
+     <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-camera'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 5</h3>
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          </p>
+        </div>
+      </div>
+
+      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-heart'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 6</h3>
+          <p>
+    			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          </p>
+        </div>
+      </div>
+
+    <!--Endorsements third-row-->
+
+      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-cog'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 7</h3>
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          </p>
+        </div>
+      </div>
+
+     <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-camera'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 8</h3>
+          <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          </p>
+        </div>
+      </div>
+
+      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
+        <div class='EndorsementsLeft'>
+          <span class='icon lnr lnr-heart'/>
+        </div>
+        <div class='EndorsementsRight'>
+        <h3>Endorser 9</h3>
+          <p>
+    			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          </p>
+        </div>
+      </div>
+
+      <!--END Endorsements-->
+
+      </div>
+
+    </div>
+    </div>
+
+    </section>
+<!-- Section Endorsements End-->
+
+
+
+
 </b:if>
 </b:if>
 
@@ -2390,12 +2575,12 @@ var _0x38ea=["\x73\x68\x6F\x77","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","
 
           <!-- SOCIAL ICONS -->
           <div class='col-md-6 col-sm-6 col-xs-12 footerRight'>
-            <a href='https://www.facebook.com/planthro' target='_blank'><i class='fa fa-facebook'/></a>            
-            <a href='https://twitter.com/planthro' target='_blank'><i class='fa fa-twitter'/></a>
-            <a href='https://www.instagram.com/planthro/' target='_blank'><i class='fa fa-instagram'/></a>
-            <a href='#'><i class='fa fa-youtube'/></a>
-            <a href='https://www.pinterest.com/planthro/' target='_blank'><i class='fa fa-pinterest'/></a>            
-            <a href='#'><i class='fa fa-linkedin'/></a>
+            <a href='https://www.facebook.com/planthro' target='_blank'><i class='fab fa-facebook'/></a>            
+            <a href='https://twitter.com/planthro' target='_blank'><i class='fab fa-twitter'/></a>
+            <a href='https://www.instagram.com/planthro/' target='_blank'><i class='fab fa-instagram'/></a>
+            <a href='#'><i class='fab fa-youtube'/></a>
+            <a href='https://www.pinterest.com/planthro/' target='_blank'><i class='fab fa-pinterest'/></a>            
+            <a href='#'><i class='fab fa-linkedin'/></a>
             
           </div>
 
