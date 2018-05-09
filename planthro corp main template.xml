@@ -514,26 +514,26 @@ text-align: center;
   -o-transition: all .2s ease-out;
   transition: all .2s ease-out;
 }
-.connect-icons .twitter:hover{
+.connect-icons .biblio:hover{
   background: #FFA500;
 }
-.connect-icons .facebook:hover{
-  background: #3b5998;
+.connect-icons .wiki:hover{
+  background: #841983;
 }
-.connect-icons .gplus:hover{
-  background: #dd4b39;
+.connect-icons .exchange:hover{
+  background: #BF1A2F;
 }
-.connect-icons .instagram:hover{
-  background: #3f729b;
+.connect-icons .opinions:hover{
+  background: #E1BE02
 }
-.connect-icons .youtube:hover{
-  background: #b31217;
+.connect-icons .analytics:hover{
+  background: #C5057E;
 }
-.connect-icons .youtube:hover{
-  background: #b31217;
+.connect-icons .events:hover{
+  background: #3B1F2B;
 }
-.connect-icons .youtube:hover{
-  background: #b31217;
+.connect-icons .outreach:hover{
+  background: #88D317;
 }
 /* 5. Section About
 -------------------------------------------------*/
@@ -1954,13 +1954,13 @@ text-align: center;
         <div class='box connect-box'>
         <!-- Social Links Section -->
             <ul class='connect-icons'>
-              <li><a class='twitter' href='https://beta.planthro.org'><span class='fas fa-barcode'/></a><span class='text-twitter'>BIBLIO</span></li>
-         <li><a class='facebook' href='' target='_blank'><span class='fas fa-file-word'/></a><span class='text-facebook'>WIKI</span></li>
-         <li><a class='gplus' href='#'><span class='fas fa-comments'/></a><span class='text-gplus'>EXCHANGE</span></li>
-         <li><a class='instagram' href='#'><span class='fas fa-microphone'/></a><span class='text-instagram'>OPINIONS</span></li>
-         <li><a class='youtube' href='#'><span class='fas fa-youtube'/></a><span class='text-youtube'>ANALYTICS</span></li>
-         <li><a class='youtube' href='#'><span class='fas fa-youtube'/></a><span class='text-youtube'>EVENTS</span></li>
-         <li><a class='youtube' href='#'><span class='fas fa-youtube'/></a><span class='text-youtube'>OUTREACH</span></li>
+              <li><a class='biblio' href='https://beta.planthro.org' target='_blank'><img src="https://png.icons8.com/ios/40/ffffff/magazine-filled.png" /></a><span class='text-biblio'>BIBLIO</span></li>
+         	  <li><a class='wiki' href=''><img src='https://svgshare.com/i/6aM.svg' width="60"/></a><span class='text-wiki'>WIKI</span></li>
+         	  <li><a class='exchange' href=''><img src="https://png.icons8.com/ios/40/ffffff/communication-filled.png" /></a><span class='text-exchange'>EXCHANGE</span></li>
+         	  <li><a class='opinions' href=''><img src="https://png.icons8.com/ios/40/ffffff/quote-left-filled.png" /></a><span class='text-opinions'>OPINIONS</span></li>
+         	  <li><a class='analytics' href=''><img src="https://png.icons8.com/ios/40/ffffff/spaceship-earth-epcot-filled.png" /></a><span class='text-analytics'>ANALYTICS</span></li>
+         	  <li><a class='events' href=''><img src="https://png.icons8.com/ios/40/ffffff/collect-filled.png" /></a><span class='text-events'>EVENTS</span></li>
+         	  <li><a class='outreach' href=''><img src="https://png.icons8.com/ios/40/ffffff/sales-channels-filled.png" /></a><span class='text-outreach'>OUTREACH</span></li>
             </ul>
         <!-- Social Links Section End-->
           </div>
@@ -2297,7 +2297,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-star'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-A.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Andrea Balbo</h3>
@@ -2309,7 +2309,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-laptop'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-V.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Vasavi Vittal</h3>
@@ -2321,7 +2321,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-pencil'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-M.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Madhura Chikhalikar</h3>
@@ -2335,7 +2335,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-cog'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-E.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Eiti Batra</h3>
@@ -2347,7 +2347,7 @@ text-align: center;
 
      <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-camera'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-N.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Naresh Mulchandani</h3>
@@ -2359,7 +2359,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-heart'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-A.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Amit Batra</h3>
@@ -2373,7 +2373,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-cog'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-P.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Pallavii Chauhan</h3>
@@ -2385,7 +2385,7 @@ text-align: center;
 
      <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-camera'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-P.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Prerna Singh</h3>
@@ -2398,7 +2398,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <span class='icon lnr lnr-heart'/>
+          <img src="https://png.icons8.com/ios/50/3dc9b3/circled-E.png" style="margin-top:-10px;" />
         </div>
         <div class='servicesRight'>
         <h3>Eesha Chitale</h3>
