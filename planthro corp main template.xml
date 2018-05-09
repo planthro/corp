@@ -67,7 +67,7 @@ body {
   background-color: #F5F5F5;
 }
 a {
-    color: #222222;
+    color: inherit; <!-- AB Edit from color: #222222; -->
     -webkit-transition: 0.3s;
     -moz-transition: 0.3s;
     transition: 0.3s;
@@ -1955,12 +1955,12 @@ text-align: center;
         <!-- Social Links Section -->
             <ul class='connect-icons'>
               <li><a class='biblio' href='https://beta.planthro.org' target='_blank'><img src="https://png.icons8.com/ios/40/ffffff/magazine-filled.png" /></a><span class='text-biblio'>BIBLIO</span></li>
-         	  <li><a class='wiki' href=''><img src='https://svgshare.com/i/6aM.svg' width="60"/></a><span class='text-wiki'>WIKI</span></li>
-         	  <li><a class='exchange' href=''><img src="https://png.icons8.com/ios/40/ffffff/communication-filled.png" /></a><span class='text-exchange'>EXCHANGE</span></li>
-         	  <li><a class='opinions' href=''><img src="https://png.icons8.com/ios/40/ffffff/quote-left-filled.png" /></a><span class='text-opinions'>OPINIONS</span></li>
-         	  <li><a class='analytics' href=''><img src="https://png.icons8.com/ios/40/ffffff/spaceship-earth-epcot-filled.png" /></a><span class='text-analytics'>ANALYTICS</span></li>
-         	  <li><a class='events' href=''><img src="https://png.icons8.com/ios/40/ffffff/collect-filled.png" /></a><span class='text-events'>EVENTS</span></li>
-         	  <li><a class='outreach' href=''><img src="https://png.icons8.com/ios/40/ffffff/sales-channels-filled.png" /></a><span class='text-outreach'>OUTREACH</span></li>
+         	  <li><a class='wiki'><img src='https://svgshare.com/i/6aM.svg' width="60"/></a><span class='text-wiki'>WIKI</span></li>
+         	  <li><a class='exchange'><img src="https://png.icons8.com/ios/40/ffffff/communication-filled.png" /></a><span class='text-exchange'>EXCHANGE</span></li>
+         	  <li><a class='opinions'><img src="https://png.icons8.com/ios/40/ffffff/quote-left-filled.png" /></a><span class='text-opinions'>OPINIONS</span></li>
+         	  <li><a class='analytics'><img src="https://png.icons8.com/ios/40/ffffff/spaceship-earth-epcot-filled.png" /></a><span class='text-analytics'>ANALYTICS</span></li>
+         	  <li><a class='events'><img src="https://png.icons8.com/ios/40/ffffff/collect-filled.png" /></a><span class='text-events'>EVENTS</span></li>
+         	  <li><a class='outreach'><img src="https://png.icons8.com/ios/40/ffffff/sales-channels-filled.png" /></a><span class='text-outreach'>OUTREACH</span></li>
             </ul>
         <!-- Social Links Section End-->
           </div>
@@ -2011,29 +2011,28 @@ text-align: center;
                   <div class='col-md-4 aboutMe aboutInfo wow fadeInUp animated' style='visibility: visible;'>
                    <h1>Disclosures</h1>
                     <!--<h3>Some sub-header if needed</h3>-->
-                      <p>
-                        <span class='textBlue'>
-                          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
-                        </span>
-                      </p>
+                     <p>
+                      <span class='textBlue'>
+                       Platform anthropocene is a New York based private operating foundation with IRS section 501(c)(3) tax exemption determination due.
+                      </span>
+                      
+                      <br/><br/>
+                      <h5>
+                       <a href='https://appext20.dos.ny.gov/corp_public/CORPSEARCH.ENTITY_SEARCH_ENTRY' target='_blank'>Incorporation</a>
+                      </h5>
 
-                    <h5>
-                      Incorporated:
-                        17 Jan 2017
-                    </h5>
+                      <h5>
+                       <a href='https://www.charitiesnys.com/RegistrySearch/show_details.jsp?id={B0C0D45B-0000-CB10-9ECA-310C878520F1}' target='_blank'>NY State filings</a>
+                      </h5>
 
-                    <h5>
-                        <a>NY State</a>
-                    </h5>
+                      <h5>
+                       <a>IRS filings</a>
+                      </h5>
 
-                    <h5>
-                        <a>IRS</a>
-                    </h5>
-
-                    <h5>
-                        <a>Financials</a>
-                    </h5>
-
+                      <h5>
+                       <a href='https://docs.google.com/spreadsheets/d/1BTlpUjDyVuePxYFWt9kkMhxe8aAyKHLaqtOaE7QgUaE/pub?gid=0&amp;single=true&amp;chrome=false&amp;output=pdf'>Financials</a>
+                      </h5>
+					</p>
 <!--
                     <div class='infoSocial'>
                     <ul>
