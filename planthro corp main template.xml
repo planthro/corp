@@ -2004,17 +2004,19 @@ text-align: center;
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1>The organization</h1>
-        <h4>Mission, Origins, and Disclosures</h4>
+        <h4>Purpose and Identification</h4>
           <hr/>
         </div>
 
                   <div class='col-md-4 aboutMe aboutStory wow fadeInUp animated' style='visibility: visible;'>
-                   <h1>Mission</h1>
+                   <h1>Purpose</h1>
                     <p>
 
                       <span class='textBlue'>
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+                      <i class='resumeName' style='font-size:inherit; color:inherit;'>#planthro</i> is a junction of views &amp; know-how of scientists, students, citizens, governance &amp; policy bodies, entrepreneurs, and stakeholders in the anthropocene.
                       </span>
+                      <span style='float:right;'><a href='https://drive.google.com/file/d/1qxTFWHGeSVY8r3CWyghxU8cSN5Ui9zch/view?usp=sharing' target='_blank'>...more</a></span>
+                      
 
                       <br/><br/>
                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -2030,11 +2032,11 @@ text-align: center;
                   </div>
 
                   <div class='col-md-4 aboutMe aboutInfo wow fadeInUp animated' style='visibility: visible;'>
-                   <h1>Disclosures</h1>
+                   <h1>Identification &amp; Disclosures</h1>
                     <!--<h3>Some sub-header if needed</h3>-->
                      <p>
                       <span class='textBlue'>
-                       Platform anthropocene is a New York based private operating foundation with IRS section 501(c)(3) tax exemption determination due.
+                       Platform anthropocene Inc. is a New York based private operating foundation with IRS section 501(c)(3) tax exemption determination currently due.
                       </span>
                       
                       <br/><br/>
@@ -2314,12 +2316,13 @@ text-align: center;
 
      <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <img src='https://png.icons8.com/ios/50/3dc9b3/circled-N.png' style='margin-top:-10px;'/>
+          <img src='https://png.icons8.com/ios/50/3dc9b3/circled-P.png' style='margin-top:-10px;'/>
         </div>
         <div class='servicesRight'>
-        <h3>Naresh Mulchandani</h3>
+        <h3>Prerna Singh</h3>
           <p>
-          Naresh is the company secretary and treasurer. Naresh is an entrepreneur with expertise in bootstrapped start-up, and past employments with Citigroup, McKinsey &amp; Co, and Deloitte Consulting. Naresh holds Masters in Mechanical Engineering from IIT-Bombay. Naresh lives in New York.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
           </p>
         </div>
       </div>
@@ -2331,7 +2334,7 @@ text-align: center;
         <div class='servicesRight'>
         <h3>Amit Batra</h3>
           <p>
-			Amit is the general administrator and finacial controller. He is an engineer and researcher by training, and built a career &amp; a consulting business in analytics &amp; scientific computing. He holds a masters in Aerospace Engineering from IIT-Bombay. Amit currently lives in Luxembourg.
+			Amit is the general administrator and finacial controller. He worked as a research engineer at University of Cambridge, and later built a career &amp; a consulting business in analytics &amp; scientific computing. He holds a masters in Aerospace Engineering from IIT-Bombay. Amit currently lives in Luxembourg.
           </p>
         </div>
       </div>
@@ -2352,13 +2355,12 @@ text-align: center;
 
      <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
-          <img src='https://png.icons8.com/ios/50/3dc9b3/circled-P.png' style='margin-top:-10px;'/>
+          <img src='https://png.icons8.com/ios/50/3dc9b3/circled-N.png' style='margin-top:-10px;'/>
         </div>
         <div class='servicesRight'>
-        <h3>Prerna Singh</h3>
+        <h3>Naresh Mulchandani</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
-          Donec sit amet venenatis ligula. Aenean sed augue scelerisque, dapibus risus sit amet.
+          Naresh is the company secretary and treasurer. He is an entrepreneur with expertise in bootstrapped start-up, and past employments with Citigroup, McKinsey &amp; Co, and Deloitte Consulting. Naresh holds Masters in Mechanical Engineering from IIT-Bombay. Naresh lives in New York.
           </p>
         </div>
       </div>
