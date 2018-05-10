@@ -536,6 +536,7 @@ text-align: center;
 .connect-icons .outreach:hover{
   background: #88D317;
 }
+
 /* 5. Section About
 -------------------------------------------------*/
 #sectionAbout {
@@ -688,6 +689,7 @@ text-align: center;
     font-weight: 500;
     letter-spacing: 1px;
     font-family: "Montserrat",sans-serif;
+    overflow-wrap:normal; word-break:normal; word-wrap:normal;
 }
 .statsName {
   font-family: "Montserrat",sans-serif;
@@ -695,6 +697,7 @@ text-align: center;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 1px;
+    overflow-wrap:normal; word-break:normal; word-wrap:normal;
 }
 /*****************************************
 Blog Post CSS
@@ -1836,6 +1839,10 @@ text-align: center;
     /*]]>*/
 </script>
 
+<style> 
+  #footer { display: none !important; }
+  .widget.Blog { display: none !important; }
+</style> <!--AB to avoid showing script generated posts page before collaborators -->
 
 </head>
 <!--<body>-->
@@ -1955,13 +1962,26 @@ text-align: center;
         <div class='box connect-box'>
         <!-- Social Links Section -->
             <ul class='connect-icons'>
-              <li><a class='biblio' href='https://beta.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/magazine-filled.png'/></a><span class='text-biblio'>BIBLIO</span></li>
-         	  <li><a class='wiki'><img src='https://svgshare.com/i/6aM.svg' width='60'/></a><span class='text-wiki'>WIKI</span></li>
-         	  <li><a class='exchange'><img src='https://png.icons8.com/ios/40/ffffff/communication-filled.png'/></a><span class='text-exchange'>EXCHANGE</span></li>
-         	  <li><a class='opinions'><img src='https://png.icons8.com/ios/40/ffffff/quote-left-filled.png'/></a><span class='text-opinions'>OPINIONS</span></li>
-         	  <li><a class='analytics'><img src='https://png.icons8.com/ios/40/ffffff/spaceship-earth-epcot-filled.png'/></a><span class='text-analytics'>ANALYTICS</span></li>
-         	  <li><a class='events'><img src='https://png.icons8.com/ios/40/ffffff/collect-filled.png'/></a><span class='text-events'>EVENTS</span></li>
-         	  <li><a class='outreach'><img src='https://png.icons8.com/ios/40/ffffff/sales-channels-filled.png'/></a><span class='text-outreach'>OUTREACH</span></li>
+            <li><a class='biblio' href='https://beta.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/magazine-filled.png'/></a>
+            <span class='text-biblio' style='word-break:normal; word-wrap:normal;'>BIBLIO</span></li>
+            
+            <li><a class='wiki'><img src='https://svgshare.com/i/6aM.svg' width='60'/></a>
+            <span class='text-wiki' style='word-break:normal; word-wrap:normal;'>WIKI</span></li>
+            
+            <li><a class='exchange'><img src='https://png.icons8.com/ios/40/ffffff/communication-filled.png'/></a>
+            <span class='text-exchange' style='word-break:normal; word-wrap:normal;'>EXCHANGE</span></li>
+            
+            <li><a class='opinions'><img src='https://png.icons8.com/ios/40/ffffff/quote-left-filled.png'/></a>
+            <span class='text-opinions' style='word-break:normal; word-wrap:normal;'>OPINIONS</span></li>
+            
+            <li><a class='analytics'><img src='https://png.icons8.com/ios/40/ffffff/spaceship-earth-epcot-filled.png'/></a>
+            <span class='text-analytics' style='word-break:normal; word-wrap:normal;'>ANALYTICS</span></li>
+            
+            <li><a class='events'><img src='https://png.icons8.com/ios/40/ffffff/collect-filled.png'/></a>
+            <span class='text-events' style='word-break:normal; word-wrap:normal;'>EVENTS</span></li>
+            
+            <li><a class='outreach'><img src='https://png.icons8.com/ios/40/ffffff/sales-channels-filled.png'/></a>
+            <span class='text-outreach' style='word-break:normal; word-wrap:normal;'>OUTREACH</span></li>
             </ul>
         <!-- Social Links Section End-->
           </div>
@@ -2003,7 +2023,7 @@ text-align: center;
                   </div>
 
                   <div class='col-md-4 aboutMe aboutProfile wow fadeInUp animated' style='visibility: visible;'>
-                    <h1><span class='paoverride' style='font-size: 12px;'>Platform anthropocene</span> is <i class='resumeName' style="font-size:inherit;">#planthro</i></h1>
+                    <h1><span class='paoverride' style='font-size: 12px;'>Platform anthropocene</span> is <i class='resumeName' style='font-size:inherit;'>#planthro</i></h1>
       <!-- Porfile Av -->
          <img alt='#planthro logo' class='profileAv centered' src='https://1.bp.blogspot.com/-W1zO2rEOqEQ/Wu0OLbBIDxI/AAAAAAAABOM/D9JNpCQWvBYdYIzsM2Ukk1L9GZAgv4kPgCLcBGAs/s1600/Pa1200X1200.png'/>
       <!-- Porfile Av End-->
@@ -2067,7 +2087,7 @@ text-align: center;
 
             <h1>Projects</h1>
 
-              <h4>Activities and output by <i class='resumeName' style="font-size:inherit;">#planthro</i></h4>
+              <h4>Activities and output by <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
 
                 <div class='separatorlineblack'/>
           <hr/>
@@ -2086,7 +2106,7 @@ text-align: center;
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2015-ongoing</b>          
                   <h4>
-                  <i class='resumeName' style="font-size:inherit;">#planthro</i> Corporate Development
+                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> Corporate Development
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>  
@@ -2094,7 +2114,7 @@ text-align: center;
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2016-ongoing</b>          
                   <h4>
-                  <i class='resumeName' style="font-size:inherit;">#planthro</i> BIBLIO
+                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> BIBLIO
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>  
@@ -2102,7 +2122,7 @@ text-align: center;
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2017-ongoing</b>          
                   <h4>
-                  <i class='resumeName' style="font-size:inherit;">#planthro</i> OUTREACH
+                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> OUTREACH
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>  
@@ -2123,7 +2143,7 @@ text-align: center;
               <li class='wow fadeInRight animated' style='visibility: visible;'>
                 <b class='resumePeriod'>late 2018 onwards</b>
                   <h4>
-                  <i class='resumeName' style="font-size:inherit;">#planthro</i> WIKI, OPINIONS, EXCHANGE 
+                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> WIKI, OPINIONS, EXCHANGE 
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>
@@ -2131,7 +2151,7 @@ text-align: center;
               <li class='wow fadeInRight animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2019 onwards</b>
                   <h4>
-                  <i class='resumeName' style="font-size:inherit;">#planthro</i> ANALYTICS suite
+                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> ANALYTICS suite
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>
@@ -2139,7 +2159,7 @@ text-align: center;
               <li class='wow fadeInRight animated' style='visibility: visible;'>
                 <b class='resumePeriod'>late 2019 onwards</b>
                   <h4>
-                  <i class='resumeName' style="font-size:inherit;">#planthro</i> INSTITUTE, LIVE EVENTS
+                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> INSTITUTE, LIVE EVENTS
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>
@@ -2163,13 +2183,13 @@ text-align: center;
               500 <!--<span class='lnr lnr-camera'/>-->
             </div>
             <div class='statsName'>
-              References &amp; writeups
+              Posts
             </div>
           </div>
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInRight animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              21
+              22
             </div>
             <div class='statsName'>
               Volunteers
@@ -2178,7 +2198,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              30<!--<span class='lnr lnr-sun'/>-->
+              20<!--<span class='lnr lnr-sun'/>-->
             </div>
             <div class='statsName'>
               Endorsers
@@ -2223,60 +2243,7 @@ text-align: center;
 </b:if>
 </b:if>
 
-<div id='footer'>
-<div class='ct-wrapper'>
-<b:section class='footer' id='footer1' preferred='yes'>
-  <b:widget id='Label1' locked='false' title='Labels' type='Label' version='1'>
-    <b:widget-settings>
-      <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
-      <b:widget-setting name='display'>LIST</b:widget-setting>
-      <b:widget-setting name='selectedLabelsList'/>
-      <b:widget-setting name='showType'>ALL</b:widget-setting>
-      <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
-    </b:widget-settings>
-    <b:includable id='main'>
-                <b:if cond='data:title'>
-                  <h2><data:title/></h2>
-                </b:if>
-                <div expr:class='&quot;widget-content &quot; + data:display + &quot;-label-widget-content&quot;'>
-                  <b:if cond='data:display == &quot;list&quot;'>
-                    <ul>
-                      <b:loop values='data:labels' var='label'>
-                        <li>
-                          <b:if cond='data:blog.url == data:label.url'>
-                            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
-                            <b:else/>
-                            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
-                          </b:if>
-                          <b:if cond='data:showFreqNumbers'>
-                            <span dir='ltr'>(<data:label.count/>)</span>
-                          </b:if>
-                        </li>
-                      </b:loop>
-                    </ul>
-                    <b:else/>
-                    <b:loop values='data:labels' var='label'>
-                      <span expr:class='&quot;label-size label-size-&quot; + data:label.cssSize'>
-                        <b:if cond='data:blog.url == data:label.url'>
-                          <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
-                          <b:else/>
-                          <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
-                        </b:if>
-                        <b:if cond='data:showFreqNumbers'>
-                          <span class='label-count' dir='ltr'>(<data:label.count/>)</span>
-                        </b:if>
-                      </span>
-                    </b:loop>
-                  </b:if>
-                  <b:include name='quickedit'/>
-                </div>
-              </b:includable>
-  </b:widget>
-</b:section>
-<div class='clr'/>
-</div><!-- /ct-wrapper -->
-</div><!-- footer -->
- 
+
 <b:if cond='data:blog.pageType != &quot;item&quot;'>
 <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
 <!-- Section Services -->
@@ -2285,7 +2252,7 @@ text-align: center;
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1>Collaborators</h1>
-        <h4>Key people running <i class='resumeName' style="font-size:inherit;">#planthro</i></h4>
+        <h4>Key people running <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
           <hr/>
         </div>
       <!-- END section TITLE -->
@@ -2442,7 +2409,7 @@ text-align: center;
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1>Endorsements</h1>
-        <h4>Experts affirming <i class='resumeName' style="font-size:inherit;">#planthro</i></h4>
+        <h4>Experts affirming <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
           <hr/>
         </div>
       <!-- END section TITLE -->
@@ -2588,7 +2555,7 @@ text-align: center;
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1>Contact</h1>
-        <h4>Reach out to <i class='resumeName' style="font-size:inherit;">#planthro</i></h4>
+        <h4>Reach out to <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
           <hr/>
         </div>
       <!-- END section TITLE -->
