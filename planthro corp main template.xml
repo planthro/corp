@@ -389,7 +389,7 @@ font-size: calc(5vw + 5vh);//72px; //60px;
 font-weight: 300 !important;
 letter-spacing: 0px; //1px;
 padding-bottom: 0px;
-//line-height: 72px;
+line-height: calc(5vw + 5vh);//72px; //60px;
 margin-bottom: 0;
 position: relative;
 display: inline-block;
@@ -424,7 +424,7 @@ margin: 0 auto;
 font-size: calc(2.5vw + 2.5vh); //36px;
 font-weight: 300;
 letter-spacing: 0px; //3px;
-//line-height: 36px;
+line-height: calc(2.5vw + 2.5vh); //36px;
 color: #cccccc;
 padding: 15px;
 background: transparent;
@@ -1861,7 +1861,7 @@ text-align: center;
             <li><a class='easing' href='#sectionServices'>Collaborators</a></li>
             <li><a class='easing' href='#sectionDonate'>Donate</a></li>
             <li><a class='easing' href='#sectionEndorsements'>Endorsements</a></li>
-            <li><a class='easing' href='#sectionContact'>Contact</a></li>                        
+            <li><a class='easing' href='#sectionContact'>Reach Out</a></li>                        
            </ul>           
         </nav>
       </div>
@@ -2089,7 +2089,7 @@ text-align: center;
 
             <h1>Projects</h1>
 
-              <h4>Activities and output by <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
+              <h4>by <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
 
                 <div class='separatorlineblack'/>
           <hr/>
@@ -2254,7 +2254,7 @@ text-align: center;
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1>Collaborators</h1>
-        <h4>Key people running <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
+        <h4>at <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
           <hr/>
         </div>
       <!-- END section TITLE -->
@@ -2321,7 +2321,7 @@ text-align: center;
         <div class='servicesRight'>
         <h3>Prerna Singh</h3>
           <p>
-          Prerna is the editor and social media manager. She worked as editor with major Indian newspaer. She hold a PhD from IIT-Roorkee in Molucular Biology. Prerna lives in Ghaziabad, India.
+          Prerna is the editor and social media manager. She held editorship with major Indian publications, and analyzes technology addressing environmental challenges. She holds a PhD in Environmental Chemistry from IIT-Roorkee. Prerna lives in Ghaziabad, India.
           </p>
         </div>
       </div>
@@ -2347,7 +2347,7 @@ text-align: center;
         <div class='servicesRight'>
         <h3>Pallavii Chauhan</h3>
           <p>
-           Pallavii is the editor working closely with Andrea. Experience sentence. She holds an English major from University of Delhi. education here. Pallavii lives in Newton, Boston.
+           Pallavii is the editor. She has worked in market research focused on technology in emerging markets. She holds a Masters degree in English Honors from Lady Sriram College, New Delhi. Pallavii also volunteers for local non profits and lives in Newton, Boston.
           </p>
         </div>
       </div>
@@ -2392,7 +2392,7 @@ text-align: center;
     <!-- section TITLE -->
       <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1 style='color: #cccccc;'>Donate</h1>
-        <h4 style='color: #cccccc;'>Seeking financial support for <i class='resumeName' style='color: #cccccc;'>#planthro</i></h4>
+        <h4 style='color: #cccccc;'>to <i class='resumeName' style='color: #cccccc;'>#planthro</i></h4>
         <hr/>
       </div>
     <!-- END section TITLE -->
@@ -2422,7 +2422,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-star'/>
+          <!--<span class='icon lnr lnr-star'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Martin Beniston</h3>
@@ -2434,7 +2434,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-laptop'/>
+          <!--<span class='icon lnr lnr-laptop'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Julian Burger</h3>
@@ -2446,7 +2446,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-pencil'/>
+          <!--<span class='icon lnr lnr-pencil'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Erle Ellis</h3>
@@ -2460,7 +2460,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-cog'/>
+          <!--<span class='icon lnr lnr-cog'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Paul Vlek</h3>
@@ -2472,7 +2472,7 @@ text-align: center;
 
      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-camera'/>
+          <!--<span class='icon lnr lnr-camera'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Endorser 5</h3>
@@ -2484,7 +2484,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-heart'/>
+          <!--<span class='icon lnr lnr-heart'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Endorser 6</h3>
@@ -2498,7 +2498,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-cog'/>
+          <!--<span class='icon lnr lnr-cog'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Endorser 7</h3>
@@ -2510,7 +2510,7 @@ text-align: center;
 
      <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-camera'/>
+          <!--<span class='icon lnr lnr-camera'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Endorser 8</h3>
@@ -2522,7 +2522,7 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 EndorsementsCol4'>
         <div class='EndorsementsLeft'>
-          <span class='icon lnr lnr-heart'/>
+          <!--<span class='icon lnr lnr-heart'/>-->
         </div>
         <div class='EndorsementsRight'>
         <h3>Endorser 9</h3>
@@ -2555,8 +2555,8 @@ text-align: center;
     <div class='container'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
-        <h1>Contact</h1>
-        <h4>Reach out to <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
+        <h1>Reach out</h1>
+        <h4>to <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
           <hr/>
         </div>
       <!-- END section TITLE -->
@@ -3557,8 +3557,8 @@ text-align: center;
 
       <div class='contactBox'>
       <div class='icon lnr lnr-briefcase'/>
-      <h3>Website</h3>
-      <p>www.johnsmith.com</p>
+      <h3>Email</h3>
+      <p>planthro on gmail</p>
       </div>
 
 
@@ -3575,7 +3575,8 @@ text-align: center;
 
           <!-- COPYRIGHT-->
           <div class='col-md-6 col-sm-6 col-xs-12 footerLeft'>
-            Free content by <data:blog.title/> under Creative Commons.
+            <!--Free content by <data:blog.title/> under Creative Commons.-->
+            Free content by <i class='resumeName' style='font-size:inherit; color:inherit;'>#planthro</i> under Creative Commons.
             <a herf='' id='pacorptemplate' style='visibility: hidden' title='Blogger Templates'/>
           </div>
 
