@@ -2476,7 +2476,7 @@ text-align: center;
           <!--<span class='icon lnr lnr-camera'/>-->
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 5</h3>
+        <h3>Isabel Cacho</h3>
           <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
@@ -2488,7 +2488,7 @@ text-align: center;
           <!--<span class='icon lnr lnr-heart'/>-->
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 6</h3>
+        <h3>Julia Martinez Fernandez</h3>
           <p>
     			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
@@ -2502,7 +2502,7 @@ text-align: center;
           <!--<span class='icon lnr lnr-cog'/>-->
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 7</h3>
+        <h3>Belen Martrat</h3>
           <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
@@ -2514,7 +2514,7 @@ text-align: center;
           <!--<span class='icon lnr lnr-camera'/>-->
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 8</h3>
+        <h3>Jed Kaplan</h3>
           <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
@@ -2526,11 +2526,12 @@ text-align: center;
           <!--<span class='icon lnr lnr-heart'/>-->
         </div>
         <div class='EndorsementsRight'>
-        <h3>Endorser 9</h3>
+        <h3>Aili Pyhälä</h3>
           <p>
     			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
+        <p style='float:right;'><a href='' target='_blank'>...all endorsements</a></p>        
       </div>
 
       <!--END Endorsements-->
