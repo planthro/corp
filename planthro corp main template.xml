@@ -2342,6 +2342,18 @@ text-align: center;
 
       <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
         <div class='servicesLeft'>
+          <img src='https://png.icons8.com/ios/50/3dc9b3/circled-E.png' style='margin-top:-10px;'/>
+        </div>
+        <div class='servicesRight'>
+        <h3>Eesha Chitale</h3>
+          <p>
+			Eesha creates bite-sized, consumable social media content &amp; communication. She also works in client services team for Allianz. She is an undergrad student of Media, Public Relations, and Advertising, at the University of New South Wales. Eesha live in Sydney, Australia.
+          </p>
+        </div>
+      </div>
+
+      <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
+        <div class='servicesLeft'>
           <img src='https://png.icons8.com/ios/50/3dc9b3/circled-P.png' style='margin-top:-10px;'/>
         </div>
         <div class='servicesRight'>
@@ -2364,18 +2376,7 @@ text-align: center;
         </div>
       </div>
 
-      <div class='col-md-4 col-sm-6 col-xs-12 servicesCol4'>
-        <div class='servicesLeft'>
-          <img src='https://png.icons8.com/ios/50/3dc9b3/circled-E.png' style='margin-top:-10px;'/>
-        </div>
-        <div class='servicesRight'>
-        <h3>Eesha Chitale</h3>
-          <p>
-			Eesha creates and manages social media content &amp; communication. Other experience here. She is an undergrad student of Media, Public Relations and Advertising, at the University of New South Wales, Australia. Eesha live in Sydney.
-          </p>
-        </div>
-        <p style='float:right;'><a href='' target='_blank'>...all collaborators</a></p>
-      </div>
+      <p style='float:right;'><a href='' target='_blank'>...all collaborators</a></p>
 
       <!--END Services-->
 
@@ -2531,9 +2532,8 @@ text-align: center;
     			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
           </p>
         </div>
-        <p style='float:right;'><a href='' target='_blank'>...all endorsements</a></p>        
       </div>
-
+      <p style='float:right;'><a href='' target='_blank'>...all endorsements</a></p>
       <!--END Endorsements-->
 
       </div>
