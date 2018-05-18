@@ -1856,12 +1856,12 @@ text-align: center;
         <nav class='menu navigation'>
           <ul class='navbar menu-nav'>
             <li><a class='easing' href='#sectionIntro'>Start</a></li>
-            <li><a class='easing' href='#sectionAbout'>The Organization</a></li>
+            <li><a class='easing' href='#sectionAbout'>Purpose &amp; Identification</a></li>
             <li><a class='easing' href='#sectionResume'>Projects</a></li>
             <li><a class='easing' href='#sectionServices'>Collaborators</a></li>
             <li><a class='easing' href='#sectionDonate'>Donate</a></li>
             <li><a class='easing' href='#sectionEndorsements'>Endorsements</a></li>
-            <li><a class='easing' href='#sectionContact'>Reach Out</a></li>                        
+            <li><a class='easing' href='#sectionContact'>Reach-Out</a></li>                        
            </ul>           
         </nav>
       </div>
@@ -2003,8 +2003,8 @@ text-align: center;
       <div class='container'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
-        <h1>The organization</h1>
-        <h4>Purpose and Identification</h4>
+        <h1>Purpose &amp; Identification</h1>
+        <h4>of <span class='resumeName' style='font-size:inherit; text-transform:none;'>Platform anthropocene</span></h4>        
           <hr/>
         </div>
 
@@ -2014,14 +2014,15 @@ text-align: center;
 
                       <span class='textBlue'>
                       <i class='resumeName' style='font-size:inherit; color:inherit;'>#planthro</i> is a junction of views &amp; know-how of scientists, students, citizens, governance &amp; policy bodies, entrepreneurs, and stakeholders in the anthropocene.
-                      </span>
-                      <span style='float:right;'><a href='https://drive.google.com/file/d/1qxTFWHGeSVY8r3CWyghxU8cSN5Ui9zch/view?usp=sharing' target='_blank'>...more</a></span>
-                      
+                      </span>                      
 
                       <br/><br/>
                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
                     </p>
+                    
+                    <p style='float:right;'><a href='https://drive.google.com/file/d/1qxTFWHGeSVY8r3CWyghxU8cSN5Ui9zch/view?usp=sharing' target='_blank'>...more</a></p>
+
                   </div>
 
                   <div class='col-md-4 aboutMe aboutProfile wow fadeInUp animated' style='visibility: visible;'>
@@ -2557,7 +2558,7 @@ text-align: center;
     <div class='container'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
-        <h1>Reach out</h1>
+        <h1>Reach-Out</h1>
         <h4>to <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
           <hr/>
         </div>
