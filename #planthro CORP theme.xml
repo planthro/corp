@@ -1856,7 +1856,7 @@ text-align: center;
         <nav class='menu navigation'>
           <ul class='navbar menu-nav'>
             <li><a class='easing' href='#sectionIntro'>Start</a></li>
-            <li><a class='easing' href='#sectionAbout'>Purpose &amp; Identification</a></li>
+            <li><a class='easing' href='#sectionAbout'>Context</a></li>
             <li><a class='easing' href='#sectionResume'>Projects</a></li>
             <li><a class='easing' href='#sectionServices'>Collaborators</a></li>
             <li><a class='easing' href='#sectionDonate'>Donate</a></li>
@@ -2003,8 +2003,8 @@ text-align: center;
       <div class='container'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
-        <h1>Purpose &amp; Identification</h1>
-        <h4>of <span class='resumeName' style='font-size:inherit; text-transform:none;'>Platform anthropocene</span></h4>        
+        <h1>Context</h1>
+        <h4>for <span class='resumeName' style='font-size:inherit; text-transform:none;'>Platform anthropocene</span></h4>        
           <hr/>
         </div>
 
@@ -2154,7 +2154,7 @@ text-align: center;
               <li class='wow fadeInRight animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2019 onwards</b>
                   <h4>
-                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> ANALYTICS suite
+                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> ANALYTICS
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>
@@ -2162,7 +2162,7 @@ text-align: center;
               <li class='wow fadeInRight animated' style='visibility: visible;'>
                 <b class='resumePeriod'>late 2019 onwards</b>
                   <h4>
-                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> INSTITUTE, LIVE EVENTS
+                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> INSTITUTE, EVENTS
                   </h4>
                   <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
               </li>
