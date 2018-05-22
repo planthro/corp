@@ -516,7 +516,7 @@ text-align: center;
   transition: all .2s ease-out;
 }
 .connect-icons .biblio:hover{
-  background: #FFA500;
+  background: #FF3A00;
 }
 .connect-icons .wiki:hover{
   background: #841983;
@@ -2119,7 +2119,7 @@ text-align: center;
                   <h4>
                   <i class='resumeName' style='font-size:inherit;'>#planthro</i> BIBLIO
                   </h4>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p>A digital repository &amp; bibliography of references on human-Earth interactions. Information in made accessible to individuals and organizations across sectors. Content covers scientific and popular publications, governance reports, talks, MOOCs, documentaries and more.</p>
               </li>  
 
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
@@ -2430,7 +2430,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Martin Beniston</h3>
           <p>
-   			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+   		  Nobel peace prize nominee in 2007 as member of the IPCC. Director of the Institute for Environmental Sciences at the University of Geneva until 2016.
           </p>
         </div>
       </div>
@@ -2442,7 +2442,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Julian Burger</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+           Former Head of the Indigenous Peoples and Minorities Programme at the UN Office of the High Commissioner for Human Rights (OHCHR).
           </p>
         </div>
       </div>
@@ -2454,7 +2454,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Erle Ellis</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          Member of the Anthropocene Working Group of the International Commission on Stratigraphy. Director of the Laboratory for Anthropogenic Landscape Ecology at UMBC.
           </p>
         </div>
       </div>
@@ -2468,7 +2468,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Paul Vlek</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          Founder of the West African Science Service Center on Climate Change and Adapted Land Use. Co-founder of the Center for Development Research (ZEF), Bonn.
           </p>
         </div>
       </div>
@@ -2480,7 +2480,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Isabel Cacho</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          Member of CLIVAR (Climate Variability), SOLAS (Surface Ocean Lower Atmosphere Study) and INQUA (International Union for Quaternary Research).
           </p>
         </div>
       </div>
@@ -2492,7 +2492,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Julia Martinez Fernandez</h3>
           <p>
-    			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+    	  Executive Director of New Water Culture Foundation. She is member of the group of 100 European water experts signing the European Declaration for a New Water Culture.
           </p>
         </div>
       </div>
@@ -2506,7 +2506,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Belen Martrat</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          Researcher at the Spanish Council for Scientific Research​ (CSIC)​. Member of PAGES (Past Global Changes, a core project of Future Earth and a scientific partner of WCRP).
           </p>
         </div>
       </div>
@@ -2518,7 +2518,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Jed Kaplan</h3>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          Jackson Senior Research Fellow in Land Use and Environmental Change at the Environmental Change Institute, University of Oxford.
           </p>
         </div>
       </div>
@@ -2530,7 +2530,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Aili Pyhälä</h3>
           <p>
-    			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+    	  Socio-environmental scientist at the University of Helsinki. Specialist in sustainable natural resource use and hands-on participatory community development.
           </p>
         </div>
       </div>
