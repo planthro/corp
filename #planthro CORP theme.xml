@@ -1861,7 +1861,7 @@ text-align: center;
             <li><a class='easing' href='#sectionServices'>Collaborators</a></li>
             <li><a class='easing' href='#sectionDonate'>Donate</a></li>
             <li><a class='easing' href='#sectionEndorsements'>Endorsements</a></li>
-            <li><a class='easing' href='#sectionContact'>Reach-Out</a></li>                        
+            <li><a class='easing' href='#sectionContact'>Reach Out</a></li>                        
            </ul>           
         </nav>
       </div>
@@ -2013,11 +2013,11 @@ text-align: center;
                     <p>
 
                       <span class='textBlue'>
-                      <i class='resumeName' style='font-size:inherit; color:inherit;'>#planthro</i> is a junction of views &amp; know-how of scientists, students, citizens, governance &amp; policy bodies, entrepreneurs, and stakeholders in the anthropocene.
+                      <i class='resumeName' style='font-size:inherit; color:inherit;'>#planthro</i> proposes to understand and plan human-Earth interaction with a broad-base approach, merging perspectives from academia, economy, society, and technology.
                       </span>                      
 
                       <br/><br/>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                      <i class='resumeName' style='font-size:inherit; color:inherit;'>#planthro</i> offers means &amp; methods to integrate <i>anthropocene</i> content, community, data, and debate, in order to manage the global challenges of human impact, adaptation, climate change mitigation, sustainable growth, and global welfare. 
 
                     </p>
                     
@@ -2100,9 +2100,9 @@ text-align: center;
       <!-- resume LEFT -->
       <div class='col-md-6 col-sm-6 col-xs-12 resumeLeft'>
 
-        <h2>Ongoing effort</h2>
+        <h2>Current work</h2>
 
-          <span class='lnr lnr-briefcase wow bounceIn animated animated' style='visibility: visible;'/>
+          <span class='lnr lnr-cog wow bounceIn animated animated' style='visibility: visible;'/>
 
            <ul class='resumeList'>
 
@@ -2111,7 +2111,7 @@ text-align: center;
                   <h4>
                   <i class='resumeName' style='font-size:inherit;'>#planthro</i> Corporate Development
                   </h4>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p>Organized a team of 20+ volunteers located globally, validated ideas with and secured endorsements from leading experts, set up a not-for-profit private operating foundation in New York State, applied for tax exemption, drafted out organization’s strategy, and administrative &amp; legal structure.</p>
               </li>  
 
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
@@ -2119,7 +2119,7 @@ text-align: center;
                   <h4>
                   <i class='resumeName' style='font-size:inherit;'>#planthro</i> BIBLIO
                   </h4>
-                  <p>A digital repository of references &amp; bibliography on human-Earth interactions. Information in made accessible to individuals and organizations across sectors. Content covers scientific and popular publications, governance reports, talks, MOOCs, documentaries and more.</p>
+                  <p>A digital repository of references, and bibliography on human-Earth interactions. Information in made accessible to individuals and organizations across sectors. Content covers scientific and popular publications, governance reports, talks, MOOCs, documentaries and more.</p>
               </li>  
 
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
@@ -2127,7 +2127,7 @@ text-align: center;
                   <h4>
                   <i class='resumeName' style='font-size:inherit;'>#planthro</i> OUTREACH
                   </h4>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p>Broad-base social media outreach over multiple channels. Consistently created and broadcasted content, also including an original educational podcast and a quarterly newsletter to sensitize and draw-in subscriber base, and also update followers &amp; stakeholders on  internal progress and developments.</p>
               </li>  
 
           </ul>
@@ -2139,7 +2139,7 @@ text-align: center;
 
         <h2>Future directions</h2>
 
-          <span class='lnr lnr-spell-check wow bounceIn animated animated' style='visibility: visible;'/>
+          <span class='lnr lnr-flag wow bounceIn animated animated' style='visibility: visible;'/>
 
             <ul class='resumeList'>
 
@@ -2148,7 +2148,7 @@ text-align: center;
                   <h4>
                   <i class='resumeName' style='font-size:inherit;'>#planthro</i> WIKI, OPINIONS, EXCHANGE 
                   </h4>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p>Multilingual wiki of 10k+ articles on the anthropocene epoch and related issues, open to contributions and synchronised to wikipedia; series of blogs presenting personal opinions of invited experts as authors; online exchange forum fostering cross-delibration between communitites.</p>
               </li>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
@@ -2156,7 +2156,7 @@ text-align: center;
                   <h4>
                   <i class='resumeName' style='font-size:inherit;'>#planthro</i> ANALYTICS
                   </h4>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p>Online data repository of thousands of anthropocene and sustainability databases &#8211; quantitative and qualitative (such as from UNDP, IMF, World Bank). Data to be made available as &#39;model ready&#39;. Suite To include in-situ modeling, analytics, and visualisation, to produce simulations and infographics.</p>
               </li>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
@@ -2164,7 +2164,7 @@ text-align: center;
                   <h4>
                   <i class='resumeName' style='font-size:inherit;'>#planthro</i> INSTITUTE, EVENTS
                   </h4>
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                  <p>Workshops, seminars and conferences to advance the of knowledge, discussion, and trans-disciplinary collaboratin on human impacts and sustainability. Output to be made available as reports, scientific publications, and web-content. Eventual aim to have a dedicated institute servicing this.</p>
               </li>
 
           </ul>
@@ -2334,7 +2334,7 @@ text-align: center;
         <div class='servicesRight'>
         <h3>Amit Batra</h3>
           <p>
-			Amit is the general administrator and finacial controller. He worked as a research engineer at University of Cambridge, and later built a career &amp; a consulting business in analytics &amp; scientific computing. He holds a masters in Aerospace Engineering from IIT-Bombay. Amit currently lives in Luxembourg.
+			Amit is the general administrator and financial controller. He worked as a research engineer at University of Cambridge, and later built a career &amp; a consulting business in analytics &amp; scientific computing. He holds a masters in Aerospace Engineering from IIT-Bombay. Amit currently lives in Luxembourg.
           </p>
         </div>
       </div>
@@ -2377,7 +2377,7 @@ text-align: center;
         </div>
       </div>
 
-      <p style='float:right;'><a href='' target='_blank'>...all collaborators</a></p>
+      <p style='float:right;'><a href='https://docs.google.com/document/d/1EN1c-GysMSiUol4N3mk1oduAjFAW6RfQ2nE2hgDtvBs/preview' target='_blank'>...all collaborators</a></p>
 
       <!--END Services-->
 
@@ -2558,7 +2558,7 @@ text-align: center;
     <div class='container'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
-        <h1>Reach-Out</h1>
+        <h1>Reach Out</h1>
         <h4>to <i class='resumeName' style='font-size:inherit;'>#planthro</i></h4>
           <hr/>
         </div>
@@ -3544,11 +3544,11 @@ text-align: center;
       <!-- END contact FORM-->
       </div>
 
-      <!-- Contact Adress -->
+      <!-- Contact Address -->
       <div class='col-md-6 contactRight  wow fadeInUp animated' style='visibility: visible;'>
       <div class='contactBox'>
       <div class='icon lnr lnr-map'/>
-      <h3>Adress/Street</h3>
+      <h3>Address/Street</h3>
       <p>160 Riverside Blvd, Apt 30E, 10069 New York, NY, USA</p>
       </div>
 
@@ -3559,14 +3559,14 @@ text-align: center;
       </div>
 
       <div class='contactBox'>
-      <div class='icon lnr lnr-briefcase'/>
+      <div class='icon lnr lnr-pencil'/>
       <h3>Email</h3>
       <p>planthro on gmail</p>
       </div>
 
 
       </div>
-    <!-- Contact Adress End-->
+    <!-- Contact Address End-->
       </div>
       <!-- END container -->
 
@@ -3588,9 +3588,9 @@ text-align: center;
             <a href='https://www.facebook.com/planthro' target='_blank'><i class='fab fa-facebook'/></a>            
             <a href='https://twitter.com/planthro' target='_blank'><i class='fab fa-twitter'/></a>
             <a href='https://www.instagram.com/planthro/' target='_blank'><i class='fab fa-instagram'/></a>
-            <a href='#'><i class='fab fa-youtube'/></a>
+            <a><i class='fab fa-youtube'/></a>
             <a href='https://www.pinterest.com/planthro/' target='_blank'><i class='fab fa-pinterest'/></a>            
-            <a href='#'><i class='fab fa-linkedin'/></a>
+            <a href='https://www.linkedin.com/company/platform-anthropecene-inc/' target='_blank'><i class='fab fa-linkedin'/></a>
             
           </div>
 
