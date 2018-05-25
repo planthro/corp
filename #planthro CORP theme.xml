@@ -1903,7 +1903,7 @@ text-align: center;
           <div id='header-inner'>
             <div class='titlewrapper' style='background: transparent'>
               <h1 class='title' style='background: transparent; border-width: 0px'>
-                <b:include name='title'/>
+                Platform anthropocene
               </h1>
             </div>
             <b:include name='description'/>
@@ -1912,7 +1912,7 @@ text-align: center;
           <div expr:style='&quot;background-image: url(\&quot;&quot; + data:sourceUrl + &quot;\&quot;); &quot;                        + &quot;background-position: &quot;                        + data:backgroundPositionStyleStr + &quot;; &quot;                        + data:widthStyleStr                        + &quot;min-height: &quot; + data:height                        + &quot;_height: &quot; + data:height                        + &quot;background-repeat: no-repeat; &quot;' id='header-inner'>
             <div class='titlewrapper' style='background: transparent'>
               <h1 class='title' style='background: transparent; border-width: 0px'>
-                <b:include name='title'/>
+                Platform anthropocene
               </h1>
             </div>
             <b:include name='description'/>
@@ -1935,7 +1935,7 @@ text-align: center;
     <div id='header-inner'>
       <div class='titlewrapper'>
         <h1 class='title'>
-          <b:include name='title'/>
+          Platform anthropocene
         </h1>
       </div>
       <b:include name='description'/>
@@ -1944,7 +1944,7 @@ text-align: center;
 </b:includable>
                 <b:includable id='description'>
   <div class='descriptionwrapper'>
-    <p class='description'><span><data:description/></span></p>
+    <p class='description'><span>Understanding Human-Earth Interaction</span></p>
   </div>
 </b:includable>
                 <b:includable id='title'>
