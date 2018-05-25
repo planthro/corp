@@ -1965,7 +1965,7 @@ text-align: center;
             <li><a class='biblio' href='https://beta.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/magazine-filled.png'/></a>
             <span class='text-biblio' style='word-break:normal; word-wrap:normal;'>BIBLIO</span></li>
             
-            <li><a class='wiki'><img src='https://svgshare.com/i/6aM.svg' width='60'/></a>
+            <li><a class='wiki'><img src='https://cdn.rawgit.com/planthro/701535663b02256e076e26735a667aa0/raw/fb8361548f0a7bbdf2c3c566c95f31571540b89e/planthroWIKI.svg' width='60'/></a>
             <span class='text-wiki' style='word-break:normal; word-wrap:normal;'>WIKI</span></li>
             
             <li><a class='exchange'><img src='https://png.icons8.com/ios/40/ffffff/communication-filled.png'/></a>
@@ -2506,7 +2506,7 @@ text-align: center;
         <div class='EndorsementsRight'>
         <h3>Belen Martrat</h3>
           <p>
-          Researcher at the Spanish Council for Scientific Research​ (CSIC)​. Member of PAGES (Past Global Changes, a core project of Future Earth and a scientific partner of WCRP).
+          Researcher at the Spanish Council for Scientific Research&#8203; (CSIC)&#8203;. Member of PAGES (Past Global Changes, a core project of Future Earth and a scientific partner of WCRP).
           </p>
         </div>
       </div>
