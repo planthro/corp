@@ -1878,7 +1878,7 @@ text-align: center;
           <div class='introContent'>
             <div class='introHeading'>
             <b:section class='header' id='header' maxwidgets='1' showaddelement='yes'>
-              <b:widget id='Header1' locked='true' title='Platform anthropocene (Header)' type='Header' version='1'>
+              <b:widget id='Header1' locked='true' title='#planthro | Platform anthropocene Inc. | Corporate Page (Header)' type='Header' version='1'>
                 <b:widget-settings>
                   <b:widget-setting name='displayUrl'/>
                   <b:widget-setting name='displayHeight'>0</b:widget-setting>
@@ -2111,7 +2111,7 @@ text-align: center;
                   <h4>
                   <i class='resumeName' style='font-size:inherit;'>#planthro</i> Corporate Development
                   </h4>
-                  <p>Organized a team of 20+ volunteers located globally, validated ideas with and secured endorsements from leading experts, set up a not-for-profit private operating foundation in New York State, applied for tax exemption, drafted out organization’s strategy, and administrative &amp; legal structure.</p>
+                  <p>Organized a team of 20+ volunteers located globally, validated ideas with and secured endorsements from leading experts, set up a not-for-profit private operating foundation in New York State, applied for tax exemption, drafted out organization&#8217;s strategy, and administrative &amp; legal structure.</p>
               </li>  
 
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
