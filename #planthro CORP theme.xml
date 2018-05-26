@@ -531,7 +531,7 @@ text-align: center;
   background: #C5057E;
 }
 .connect-icons .events:hover{
-  background: #3B1F2B;
+  background: #704404;
 }
 .connect-icons .outreach:hover{
   background: #88D317;
@@ -2021,7 +2021,7 @@ text-align: center;
 
                     </p>
                     
-                    <p style='float:right;'><a href='https://drive.google.com/file/d/1qxTFWHGeSVY8r3CWyghxU8cSN5Ui9zch/view' target='_blank'>...more</a></p>
+                    <p style='float:right;'><a href='https://docs.google.com/document/d/1_1hoHHzPHejAIRMl5ucd9cY-1-mfIicdfp88sg8H82E/preview' target='_blank'>...more</a></p>
 
                   </div>
 
