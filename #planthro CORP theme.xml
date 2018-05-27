@@ -2021,7 +2021,8 @@ text-align: center;
 
                     </p>
                     
-                    <p style='float:right;'><a href='https://docs.google.com/document/d/1_1hoHHzPHejAIRMl5ucd9cY-1-mfIicdfp88sg8H82E/preview' target='_blank'>...more</a></p>
+                    <p style='float:right;'><a href='https://docs.google.com/viewer?url=https://docs.google.com/document/d/1_1hoHHzPHejAIRMl5ucd9cY-1-mfIicdfp88sg8H82E/export?format=pdf' target='_blank'>...more</a></p>
+                    
 
                   </div>
 
@@ -2377,7 +2378,7 @@ text-align: center;
         </div>
       </div>
 
-      <p style='float:right;'><a href='https://docs.google.com/document/d/1EN1c-GysMSiUol4N3mk1oduAjFAW6RfQ2nE2hgDtvBs/preview' target='_blank'>...all collaborators</a></p>
+      <p style='float:right;'><a href='https://docs.google.com/viewer?url=https://docs.google.com/document/d/1EN1c-GysMSiUol4N3mk1oduAjFAW6RfQ2nE2hgDtvBs/export?format=pdf' target='_blank'>...all collaborators</a></p>
 
       <!--END Services-->
 
@@ -2534,7 +2535,7 @@ text-align: center;
           </p>
         </div>
       </div>
-      <p style='float:right;'><a href='https://docs.google.com/document/d/1Pvxgl9LV_9E-JEh2xRVZDHhfhYpaHTuJIvwrrzd63pg/preview' target='_blank'>...all endorsements</a></p>
+      <p style='float:right;'><a href='https://docs.google.com/viewer?url=https://docs.google.com/document/d/1Pvxgl9LV_9E-JEh2xRVZDHhfhYpaHTuJIvwrrzd63pg/export?format=pdf' target='_blank'>...all endorsements</a></p>
       <!--END Endorsements-->
 
       </div>
@@ -3588,7 +3589,7 @@ text-align: center;
             <a href='https://www.facebook.com/planthro' target='_blank'><i class='fab fa-facebook'/></a>            
             <a href='https://twitter.com/planthro' target='_blank'><i class='fab fa-twitter'/></a>
             <a href='https://www.instagram.com/planthro/' target='_blank'><i class='fab fa-instagram'/></a>
-            <a><i class='fab fa-youtube'/></a>
+            <a href='https://www.youtube.com/channel/UCUhjA1tU_CCLxhSnEIw0CGQ/playlists' target='_blank'><i class='fab fa-youtube'/></a>
             <a href='https://www.pinterest.com/planthro/' target='_blank'><i class='fab fa-pinterest'/></a>            
             <a href='https://www.linkedin.com/company/platform-anthropecene-inc/' target='_blank'><i class='fab fa-linkedin'/></a>
             
