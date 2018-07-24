@@ -1962,7 +1962,7 @@ text-align: center;
         <div class='box connect-box'>
         <!-- Social Links Section -->
             <ul class='connect-icons'>
-            <li><a class='biblio' href='https://beta.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/magazine-filled.png'/></a>
+            <li><a class='biblio' href='https://biblio.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/magazine-filled.png'/></a>
             <span class='text-biblio' style='word-break:normal; word-wrap:normal;'>BIBLIO</span></li>
             
             <li><a class='wiki'><img src='https://cdn.rawgit.com/planthro/701535663b02256e076e26735a667aa0/raw/fb8361548f0a7bbdf2c3c566c95f31571540b89e/planthroWIKI.svg' width='60'/></a>
@@ -2110,7 +2110,7 @@ text-align: center;
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2015-ongoing</b>          
                   <h4>
-                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> Corporate Development
+                  Corporate Development
                   </h4>
                   <p>Organized a team of 20+ volunteers located globally, validated ideas with and secured endorsements from leading experts, set up a not-for-profit private operating foundation in New York State, applied for tax exemption, drafted out organization&#8217;s strategy, and administrative &amp; legal structure.</p>
               </li>  
@@ -2118,7 +2118,7 @@ text-align: center;
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2016-ongoing</b>          
                   <h4>
-                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> BIBLIO
+                  BIBLIO
                   </h4>
                   <p>A digital repository of references, and bibliography on human-Earth interactions. Information in made accessible to individuals and organizations across sectors. Content covers scientific and popular publications, governance reports, talks, MOOCs, documentaries and more.</p>
               </li>  
@@ -2126,7 +2126,7 @@ text-align: center;
               <li class='wow fadeInLeft animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2017-ongoing</b>          
                   <h4>
-                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> OUTREACH
+                  OUTREACH
                   </h4>
                   <p>Broad-base social media outreach over multiple channels. Consistently created and broadcasted content, also including an original educational podcast and a quarterly newsletter to sensitize and draw-in subscriber base, and also update followers &amp; stakeholders on  internal progress and developments.</p>
               </li>  
@@ -2147,7 +2147,7 @@ text-align: center;
               <li class='wow fadeInRight animated' style='visibility: visible;'>
                 <b class='resumePeriod'>late 2018 onwards</b>
                   <h4>
-                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> WIKI, OPINIONS, EXCHANGE 
+                  WIKI, OPINIONS, EXCHANGE 
                   </h4>
                   <p>Multilingual wiki of 10k+ articles on the anthropocene epoch and related issues, open to contributions and synchronised to wikipedia; series of blogs presenting personal opinions of invited experts as authors; online exchange forum fostering delibration between communitites.</p>
               </li>
@@ -2155,7 +2155,7 @@ text-align: center;
               <li class='wow fadeInRight animated' style='visibility: visible;'>
                 <b class='resumePeriod'>2019 onwards</b>
                   <h4>
-                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> ANALYTICS
+                  ANALYTICS
                   </h4>
                   <p>Online data repository of thousands of anthropocene and sustainability databases &#8211; quantitative and qualitative (such as from UNDP, IMF, World Bank). Data to be made available as &#39;model ready&#39;. Analytics suite to include in-situ modeling and visualisation, to produce simulations and infographics.</p>
               </li>
@@ -2163,7 +2163,7 @@ text-align: center;
               <li class='wow fadeInRight animated' style='visibility: visible;'>
                 <b class='resumePeriod'>late 2019 onwards</b>
                   <h4>
-                  <i class='resumeName' style='font-size:inherit;'>#planthro</i> INSTITUTE, EVENTS
+                  INSTITUTE, EVENTS
                   </h4>
                   <p>Workshops, seminars and conferences to advance the state of knowledge, discussion, and trans-disciplinary collaboration on human impacts and sustainability. Output to be made available as reports, scientific publications, and web-content. Eventual aim to have a dedicated institute servicing this.</p>
               </li>
@@ -2285,7 +2285,7 @@ text-align: center;
         <div class='servicesRight'>
         <h3>Vasavi Vittal</h3>
           <p>
-          Vasavi is leading the strategy and corporate development functions. She has 10+ years experience in finance, strategy, investment management and investment advisory. She holds a Masters in Biochemistry from the University of Maryland, and a MBA from the University of Oxford. Vasavi lives in London, UK.
+          Vasavi is leading the strategy and corporate development functions. She has 10+ years of experience in finance, strategy, investment management and investment advisory. She holds Masters in Biochemistry from the University of Maryland, and MBA from the University of Oxford. Vasavi lives in London, UK.
           </p>
         </div>
       </div>
