@@ -355,7 +355,7 @@ background-color: #777;
 
 /* 4. Section Intro
 -------------------------------------------------*/
-#sectionIntro {
+#start {
   text-align: center;
   background-color: #1a1a1a;
   background-image: url(https://3.bp.blogspot.com/-vBSehi6qaVs/Wu0BOg5AKAI/AAAAAAAABN0/BhpO8s19VzcLHDtjRwxuZkrHNqtiy0JdQCLcBGAs/s1600/earth_lights_lrg.jpg);
@@ -539,7 +539,7 @@ text-align: center;
 
 /* 5. Section About
 -------------------------------------------------*/
-#sectionAbout {
+#intro {
   background: #FAFAFA;
   padding-bottom: 75px;
 }
@@ -608,11 +608,11 @@ text-align: center;
 }
 /* 6. Section Resume
 -------------------------------------------------*/
-#sectionResume {
+#projects {
   background: #ffffff;
   min-height: 600px;
 }
-#sectionResume h2 {
+#projects h2 {
   font-family: "Montserrat",sans-serif;
   font-size: 16px;
   text-transform: uppercase;
@@ -1003,7 +1003,7 @@ text-transform:capitalize;
 
 /* 8. Section Services
 -------------------------------------------------*/
-#sectionServices {
+#collaborators {
     background: none repeat scroll 0 0 #efefef;
     padding-bottom: 50px;
 }
@@ -1045,14 +1045,14 @@ text-transform:capitalize;
 
 /* 8.3 Section Donate
 -------------------------------------------------*/
-#sectionDonate {
+#donate {
     background: none repeat scroll 0 0 #000000;
     padding-bottom: 50px;
 }
 
 /* 8.6 Section Endorsements
 -------------------------------------------------*/
-#sectionEndorsements {
+#endorsements {
     background: none repeat scroll 0 0 #efefef;
     padding-bottom: 50px;
 }
@@ -1094,7 +1094,7 @@ text-transform:capitalize;
 
 /* 9. Section Contact
 -------------------------------------------------*/
-#sectionContact {
+#contact {
   background: #FAFAFA;
 }
 .contactForm {margin: 0 0 50px 0;}
@@ -1149,11 +1149,11 @@ text-transform:capitalize;
     font-size: 12px;
     letter-spacing: 3px;
 }
-section#sectionContact .form-group {
+section#contact .form-group {
     margin-bottom: 25px;
 }
-section#sectionContact .form-group input,
-section#sectionContact .form-group textarea {
+section#contact .form-group input,
+section#contact .form-group textarea {
     padding: 15px;
     border: 1px solid #CCCCCC;
     color: #555;
@@ -1162,56 +1162,56 @@ section#sectionContact .form-group textarea {
     background-color: transparent;
     box-shadow: 0 0 0 rgba(0, 0, 0, 0);
 }
-section#sectionContact .form-group input.form-control {
+section#contact .form-group input.form-control {
     height: auto;
 }
 #ContactForm1_contact-form-email-message{
 min-height:155px;
 max-width: 540px;
 }
-section#sectionContact .form-control:focus {
+section#contact .form-control:focus {
     border-color: #13B0A5;
     box-shadow: none;
 }
-section#sectionContact::-webkit-input-placeholder {
+section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #999;
 }
-section#sectionContact:-moz-placeholder {
+section#contact:-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #999;
 }
-section#sectionContact::-moz-placeholder {
+section#contact::-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #999;
 }
-section#sectionContact:-ms-input-placeholder {
+section#contact:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #999;
 }
-section#sectionContact .text-danger {
+section#contact .text-danger {
     color: #1ABC9C;
 }
-section#sectionContact ul {
+section#contact ul {
     padding-left: 14px;
 }
-section#sectionContact .form-text {
+section#contact .form-text {
     color: #BFBFBF;
     margin-top: 50px;
 }
-section#sectionContact .form-text i {
+section#contact .form-text i {
     color: #fff;
     padding-right: 15px;
 }
-section#sectionContact .form-text h4 {
+section#contact .form-text h4 {
     color: #fff;
     border-bottom: 3px solid #13b0a5;
     display: inline-block;
@@ -1855,13 +1855,13 @@ text-align: center;
       <div class='menu-wrap'>
         <nav class='menu navigation'>
           <ul class='navbar menu-nav'>
-            <li><a class='easing' href='#sectionIntro'>Start</a></li>
-            <li><a class='easing' href='#sectionAbout'>Context</a></li>
-            <li><a class='easing' href='#sectionResume'>Projects</a></li>
-            <li><a class='easing' href='#sectionServices'>Collaborators</a></li>
-            <li><a class='easing' href='#sectionDonate'>Donate</a></li>
-            <li><a class='easing' href='#sectionEndorsements'>Endorsements</a></li>
-            <li><a class='easing' href='#sectionContact'>Reach Out</a></li>                        
+            <li><a class='easing' href='#start'>Start</a></li>
+            <li><a class='easing' href='#intro'>Context</a></li>
+            <li><a class='easing' href='#projects'>Projects</a></li>
+            <li><a class='easing' href='#collaborators'>Collaborators</a></li>
+            <li><a class='easing' href='#donate'>Donate</a></li>
+            <li><a class='easing' href='#endorsements'>Endorsements</a></li>
+            <li><a class='easing' href='#contact'>Reach Out</a></li>                        
            </ul>           
         </nav>
       </div>
@@ -1870,7 +1870,7 @@ text-align: center;
 <div class='content-wrap'>
 <div class='content_section'>
     <!--section INTRO-->
-    <div id='sectionIntro'>
+    <div id='start'>
     <div class='container-fluid'>
       <div class='container aboutContainer'>
         <!--INTRO BG -->
@@ -1999,7 +1999,7 @@ text-align: center;
 <b:if cond='data:blog.pageType != &quot;item&quot;'>
 <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
     <!-- Section About -->
-      <section id='sectionAbout'>
+      <section id='intro'>
       <div class='container'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
@@ -2084,7 +2084,7 @@ text-align: center;
 <b:if cond='data:blog.pageType != &quot;item&quot;'>
 <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
       <!-- Section Resume -->
-    <section id='sectionResume'>
+    <section id='projects'>
       <div class='container'>
       <!-- section TITLE -->
       <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
@@ -2251,7 +2251,7 @@ text-align: center;
 <b:if cond='data:blog.pageType != &quot;item&quot;'>
 <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
 <!-- Section Services -->
-<section id='sectionServices'>
+<section id='collaborators'>
       <div class='container wow fadeInUp animated' style='visibility: visible;'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
@@ -2391,7 +2391,7 @@ text-align: center;
 <!-- Section Services End-->
 
 <!-- Section Donate -->
-<section id='sectionDonate'>
+<section id='donate'>
   <div class='container wow fadeInUp animated' style='visibility: visible;'>
     <!-- section TITLE -->
       <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
@@ -2409,7 +2409,7 @@ text-align: center;
 
 
 <!-- Section Endorsements  -->
-<section id='sectionEndorsements'>
+<section id='endorsements'>
       <div class='container wow fadeInUp animated' style='visibility: visible;'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
@@ -2555,7 +2555,7 @@ text-align: center;
 </div>
 
 
-<section id='sectionContact'>
+<section id='contact'>
     <div class='container'>
       <!-- section TITLE -->
         <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
@@ -3591,7 +3591,7 @@ text-align: center;
             <a href='https://www.instagram.com/planthro/' target='_blank'><i class='fab fa-instagram'/></a>
             <a href='https://www.youtube.com/channel/UCUhjA1tU_CCLxhSnEIw0CGQ/playlists' target='_blank'><i class='fab fa-youtube'/></a>
             <a href='https://www.pinterest.com/planthro/' target='_blank'><i class='fab fa-pinterest'/></a>            
-            <a href='https://www.linkedin.com/company/platform-anthropecene-inc/' target='_blank'><i class='fab fa-linkedin'/></a>
+            <a href='https://www.linkedin.com/company/planthro/' target='_blank'><i class='fab fa-linkedin'/></a>
             
           </div>
 
