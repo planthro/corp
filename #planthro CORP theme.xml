@@ -516,25 +516,25 @@ text-align: center;
   transition: all .2s ease-out;
 }
 .connect-icons .biblio:hover{
-  background: #FF3A00;
+  background: #ed6a35;
 }
 .connect-icons .wiki:hover{
-  background: #841983;
+  background: #a22a5f;
 }
 .connect-icons .exchange:hover{
-  background: #BF1A2F;
+  background: #e50f48;
 }
 .connect-icons .opinions:hover{
-  background: #E1BE02
+  background: #f9be43;
 }
 .connect-icons .analytics:hover{
-  background: #C5057E;
+  background: #2d6eb5;
 }
 .connect-icons .events:hover{
-  background: #704404;
+  background: #b17f4a;
 }
 .connect-icons .outreach:hover{
-  background: #88D317;
+  background: #a9cc64;
 }
 
 /* 5. Section About
