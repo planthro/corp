@@ -2038,7 +2038,7 @@ text-align: center;
                     <!--<h3>Some sub-header if needed</h3>-->
                      <p>
                       <span class='textBlue'>
-                       Platform anthropocene Inc. is a New York based private operating foundation with IRS section 501(c)(3) tax exemption determination currently due.
+                       Platform anthropocene Inc. is a New York based public charity organization with IRS section 501(c)(3) tax exemption determination currently due.
                       </span>
                       
                       <br/><br/>
@@ -2221,7 +2221,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              450 <!--<span class='lnr lnr-pencil'/>-->
+              900 <!--<span class='lnr lnr-pencil'/>-->
             </div>
             <div class='statsName'>
              Followers
@@ -2230,7 +2230,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 last-twenty wow fadeInRight animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              $5k
+              $6k
             </div>
             <div class='statsName'>
               Raised
