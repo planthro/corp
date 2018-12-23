@@ -2056,7 +2056,10 @@ text-align: center;
                       </h5>
 
                       <h5>
+                       <!--
                        <a href='https://docs.google.com/spreadsheets/d/1BTlpUjDyVuePxYFWt9kkMhxe8aAyKHLaqtOaE7QgUaE/pub?gid=0&amp;single=true&amp;chrome=false&amp;output=pdf'>Financials</a>
+                      -->
+                       <a href='https://redirect.planthro.org/transactions' target='_blank'>Financials</a>                      
                       </h5>
 					</p>
 <!--
@@ -2146,7 +2149,7 @@ text-align: center;
             <ul class='resumeList'>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>late 2018 onwards</b>
+                <b class='resumePeriod'>Q2 2019 onwards</b>
                   <h4>
                   WIKI, OPINIONS, EXCHANGE 
                   </h4>
@@ -2154,7 +2157,7 @@ text-align: center;
               </li>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>2019 onwards</b>
+                <b class='resumePeriod'>late 2019 onwards</b>
                   <h4>
                   ANALYTICS
                   </h4>
@@ -2162,7 +2165,7 @@ text-align: center;
               </li>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>late 2019 onwards</b>
+                <b class='resumePeriod'>Q3 2020 onwards</b>
                   <h4>
                   INSTITUTE, EVENTS
                   </h4>
@@ -2185,7 +2188,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              500 <!--<span class='lnr lnr-camera'/>-->
+              600 <!--<span class='lnr lnr-camera'/>-->
             </div>
             <div class='statsName'>
               Posts
@@ -2222,7 +2225,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              900 <!--<span class='lnr lnr-pencil'/>-->
+              1.2k <!--<span class='lnr lnr-pencil'/>-->
             </div>
             <div class='statsName'>
              Followers
@@ -2231,7 +2234,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 last-twenty wow fadeInRight animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              $6k
+              $8k
             </div>
             <div class='statsName'>
               Raised
@@ -2379,6 +2382,7 @@ text-align: center;
         </div>
       </div>
 
+      
       <p style='float:right;'><a href='https://docs.google.com/viewer?url=https://docs.google.com/document/d/1EN1c-GysMSiUol4N3mk1oduAjFAW6RfQ2nE2hgDtvBs/export?format=pdf' target='_blank'>...all collaborators</a></p>
 
       <!--END Services-->
@@ -3563,7 +3567,7 @@ text-align: center;
       <div class='contactBox'>
       <div class='icon lnr lnr-pencil'/>
       <h3>Email</h3>
-      <p>planthro on gmail</p>
+      <p>info at ...</p>
       </div>
 
 
@@ -3589,10 +3593,10 @@ text-align: center;
           <div class='col-md-6 col-sm-6 col-xs-12 footerRight'>
             <a href='https://www.facebook.com/planthro' target='_blank'><i class='fab fa-facebook'/></a>            
             <a href='https://twitter.com/planthro' target='_blank'><i class='fab fa-twitter'/></a>
-            <a href='https://www.instagram.com/planthro/' target='_blank'><i class='fab fa-instagram'/></a>
+            <a href='https://www.instagram.com/planthro' target='_blank'><i class='fab fa-instagram'/></a>
             <a href='https://www.youtube.com/channel/UCUhjA1tU_CCLxhSnEIw0CGQ/playlists' target='_blank'><i class='fab fa-youtube'/></a>
-            <a href='https://www.pinterest.com/planthro/' target='_blank'><i class='fab fa-pinterest'/></a>            
-            <a href='https://www.linkedin.com/company/planthro/' target='_blank'><i class='fab fa-linkedin'/></a>
+            <a href='https://www.pinterest.com/planthro' target='_blank'><i class='fab fa-pinterest'/></a>            
+            <a href='https://www.linkedin.com/company/planthro' target='_blank'><i class='fab fa-linkedin'/></a>
             
           </div>
 
