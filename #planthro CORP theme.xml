@@ -1966,22 +1966,22 @@ text-align: center;
             <li><a class='biblio' href='https://biblio.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/magazine-filled.png'/></a>
             <span class='text-biblio' style='word-break:normal; word-wrap:normal;'>BIBLIO</span></li>
             
-            <li><a class='wiki'><img src='https://cdn.rawgit.com/planthro/701535663b02256e076e26735a667aa0/raw/fb8361548f0a7bbdf2c3c566c95f31571540b89e/planthroWIKI.svg' width='60'/></a>
+            <li><a class='wiki' href='https://wiki.planthro.org' target='_blank'><img src='https://cdn.rawgit.com/planthro/701535663b02256e076e26735a667aa0/raw/fb8361548f0a7bbdf2c3c566c95f31571540b89e/planthroWIKI.svg' width='60'/></a>
             <span class='text-wiki' style='word-break:normal; word-wrap:normal;'>WIKI</span></li>
+                     
+            <li><a class='opinions' href='https://opinions.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/quote-left-filled.png'/></a>
+            <span class='text-opinions' style='word-break:normal; word-wrap:normal;'>OPINIONS</span></li>
             
             <li><a class='exchange'><img src='https://png.icons8.com/ios/40/ffffff/communication-filled.png'/></a>
             <span class='text-exchange' style='word-break:normal; word-wrap:normal;'>EXCHANGE</span></li>
-            
-            <li><a class='opinions'><img src='https://png.icons8.com/ios/40/ffffff/quote-left-filled.png'/></a>
-            <span class='text-opinions' style='word-break:normal; word-wrap:normal;'>OPINIONS</span></li>
-            
+
             <li><a class='analytics'><img src='https://png.icons8.com/ios/40/ffffff/spaceship-earth-epcot-filled.png'/></a>
             <span class='text-analytics' style='word-break:normal; word-wrap:normal;'>ANALYTICS</span></li>
             
             <li><a class='events'><img src='https://png.icons8.com/ios/40/ffffff/collect-filled.png'/></a>
             <span class='text-events' style='word-break:normal; word-wrap:normal;'>EVENTS</span></li>
             
-            <li><a class='outreach'><img src='https://png.icons8.com/ios/40/ffffff/sales-channels-filled.png'/></a>
+            <li><a class='outreach' href='https://www.facebook.com/planthro' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/sales-channels-filled.png'/></a>
             <span class='text-outreach' style='word-break:normal; word-wrap:normal;'>OUTREACH</span></li>
             </ul>
         <!-- Social Links Section End-->
@@ -2654,6 +2654,7 @@ text-align: center;
       <b:widget-setting name='showCommentLink'>true</b:widget-setting>
       <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
       <b:widget-setting name='showAuthor'>true</b:widget-setting>
+      <b:widget-setting name='disableGooglePlusShare'>false</b:widget-setting>
       <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
       <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
       <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
