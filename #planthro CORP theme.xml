@@ -2188,7 +2188,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              900 <!--<span class='lnr lnr-camera'/>-->
+              1100 <!--<span class='lnr lnr-camera'/>-->
             </div>
             <div class='statsName'>
               Posts
@@ -2225,7 +2225,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              2.8k <!--<span class='lnr lnr-pencil'/>-->
+              4200 <!--<span class='lnr lnr-pencil'/>-->
             </div>
             <div class='statsName'>
              Followers
@@ -2234,7 +2234,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 last-twenty wow fadeInRight animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              $8k
+              $9k
             </div>
             <div class='statsName'>
               Raised
