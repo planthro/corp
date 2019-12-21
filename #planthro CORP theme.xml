@@ -2149,7 +2149,7 @@ text-align: center;
             <ul class='resumeList'>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>Q2 2019 onwards</b>
+                <b class='resumePeriod'>2019-ongoing</b>
                   <h4>
                   WIKI, OPINIONS, EXCHANGE 
                   </h4>
@@ -2157,7 +2157,7 @@ text-align: center;
               </li>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>late 2019 onwards</b>
+                <b class='resumePeriod'>late 2020 onwards</b>
                   <h4>
                   ANALYTICS
                   </h4>
@@ -2165,7 +2165,7 @@ text-align: center;
               </li>
 
               <li class='wow fadeInRight animated' style='visibility: visible;'>
-                <b class='resumePeriod'>Q3 2020 onwards</b>
+                <b class='resumePeriod'>2021 onwards</b>
                   <h4>
                   INSTITUTE, EVENTS
                   </h4>
@@ -2188,7 +2188,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              1100 <!--<span class='lnr lnr-camera'/>-->
+              1200 <!--<span class='lnr lnr-camera'/>-->
             </div>
             <div class='statsName'>
               Posts
@@ -2206,7 +2206,7 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              20<!--<span class='lnr lnr-sun'/>-->
+              50+<!--<span class='lnr lnr-sun'/>-->
             </div>
             <div class='statsName'>
               Endorsers
@@ -2216,25 +2216,25 @@ text-align: center;
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInRight animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              18
+              7000
             </div>
             <div class='statsName'>
-              Countries
+              Followers
             </div>
           </div>
 
           <div class='col-md-2 col-xs-6 col-sm-4 wow fadeInLeft animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              4200 <!--<span class='lnr lnr-pencil'/>-->
+              25 <!--<span class='lnr lnr-pencil'/>-->
             </div>
             <div class='statsName'>
-             Followers
+             Countries
             </div>
           </div>
 
           <div class='col-md-2 col-xs-6 col-sm-4 last-twenty wow fadeInRight animated' style='visibility: visible;'>
             <div class='statsIconPerc'>
-              $9k
+              $15k
             </div>
             <div class='statsName'>
               Raised
