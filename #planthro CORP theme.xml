@@ -1963,25 +1963,25 @@ text-align: center;
         <div class='box connect-box'>
         <!-- Social Links Section -->
             <ul class='connect-icons'>
-            <li><a class='biblio' href='https://biblio.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/magazine-filled.png'/></a>
+            <li><a class='biblio' href='https://biblio.planthro.org' target='_blank'><img src='https://res.cloudinary.com/planthro/image/upload/v1564486079/biblio/biblio-ffffff-40px.png'/></a>
             <span class='text-biblio' style='word-break:normal; word-wrap:normal;'>BIBLIO</span></li>
             
-            <li><a class='wiki' href='https://wiki.planthro.org' target='_blank'><img src='https://cdn.rawgit.com/planthro/701535663b02256e076e26735a667aa0/raw/fb8361548f0a7bbdf2c3c566c95f31571540b89e/planthroWIKI.svg' width='60'/></a>
+            <li><a class='wiki' href='https://wiki.planthro.org' target='_blank'><img src='https://res.cloudinary.com/planthro/image/upload/v1532940038/wiki/apps%20icon%20WIKI%20svg.svg' width='60'/></a>
             <span class='text-wiki' style='word-break:normal; word-wrap:normal;'>WIKI</span></li>
                      
-            <li><a class='opinions' href='https://opinions.planthro.org' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/quote-left-filled.png'/></a>
+            <li><a class='opinions' href='https://opinions.planthro.org' target='_blank'><img src='https://res.cloudinary.com/planthro/image/upload/v1564574353/opinions/quote-left-opinions-40px.png'/></a>
             <span class='text-opinions' style='word-break:normal; word-wrap:normal;'>OPINIONS</span></li>
             
-            <li><a class='exchange'><img src='https://png.icons8.com/ios/40/ffffff/communication-filled.png'/></a>
+            <li><a class='exchange'><img src='https://res.cloudinary.com/planthro/image/upload/v1602236714/exchange/communication-filled-exchnage-ffffff-40px.png'/></a>
             <span class='text-exchange' style='word-break:normal; word-wrap:normal;'>EXCHANGE</span></li>
 
-            <li><a class='analytics'><img src='https://png.icons8.com/ios/40/ffffff/spaceship-earth-epcot-filled.png'/></a>
+            <li><a class='analytics'><img src='https://res.cloudinary.com/planthro/image/upload/v1602237465/analytics/mesh-filled-analytics-ffffff-40px.png'/></a>
             <span class='text-analytics' style='word-break:normal; word-wrap:normal;'>ANALYTICS</span></li>
             
-            <li><a class='events'><img src='https://png.icons8.com/ios/40/ffffff/collect-filled.png'/></a>
+            <li><a class='events'><img src='https://res.cloudinary.com/planthro/image/upload/v1602237835/events/collect-filled-events-ffffff-40px.png'/></a>
             <span class='text-events' style='word-break:normal; word-wrap:normal;'>EVENTS</span></li>
             
-            <li><a class='outreach' href='https://www.facebook.com/planthro' target='_blank'><img src='https://png.icons8.com/ios/40/ffffff/sales-channels-filled.png'/></a>
+            <li><a class='outreach' href='https://www.facebook.com/planthro' target='_blank'><img src='https://res.cloudinary.com/planthro/image/upload/v1602238357/outreach/sales-channels-filled-outreach-ffffff-40px.png'/></a>
             <span class='text-outreach' style='word-break:normal; word-wrap:normal;'>OUTREACH</span></li>
             </ul>
         <!-- Social Links Section End-->
@@ -2753,32 +2753,7 @@ text-align: center;
     </a>
   </span>
 </b:includable>
-    <b:includable id='backlinks' var='post'>
-  <a name='links'/><h4><data:post.backlinksLabel/></h4>
-  <b:if cond='data:post.numBacklinks != 0'>
-    <dl class='comments-block' id='comments-block'>
-      <b:loop values='data:post.backlinks' var='backlink'>
-        <div class='collapsed-backlink backlink-control'>
-          <dt class='comment-title'>
-            <span class='backlink-toggle-zippy'>&#160;</span>
-            <a expr:href='data:backlink.url' rel='nofollow'><data:backlink.title/></a>
-            <b:include data='backlink' name='backlinkDeleteIcon'/>
-          </dt>
-          <dd class='comment-body collapseable'>
-            <data:backlink.snippet/>
-          </dd>
-          <dd class='comment-footer collapseable'>
-            <span class='comment-author'><data:post.authorLabel/> <data:backlink.author/></span>
-            <span class='comment-timestamp'><data:post.timestampLabel/> <data:backlink.timestamp/></span>
-          </dd>
-        </div>
-      </b:loop>
-    </dl>
-  </b:if>
-  <p class='comment-footer'>
-    <a class='comment-link' expr:href='data:post.createLinkUrl' expr:id='data:widget.instanceId + &quot;_backlinks-create-link&quot;' target='_blank'><data:post.createLinkLabel/></a>
-  </p>
-</b:includable>
+    <b:includable id='backlinks' var='post'/>
     <b:includable id='comment-form' var='post'>
   <div class='comment-form'>
     <a name='comment-form'/>
@@ -2827,9 +2802,7 @@ text-align: center;
   </b:if>
 </b:includable>
     <b:includable id='comment_picker' var='post'>
-  <b:if cond='data:post.commentSource == 1'>
-    <b:include data='post' name='iframe_comments'/>
-  <b:elseif cond='data:post.showThreadedComments'/>
+  <b:if cond='data:post.showThreadedComments'>
     <b:include data='post' name='threaded_comments'/>
   <b:else/>
     <b:include data='post' name='comments'/>
