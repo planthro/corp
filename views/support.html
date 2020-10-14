@@ -145,6 +145,10 @@
 			.form-control textarea:valid {
 				background-color: transparent !important;
 			}
+			i.planthro-color {
+				color: #1693a5;
+				font-family: "Open Sans", "serif";
+			}
 		</style>
 		<script>
 			$(document).ready(function () {
@@ -189,6 +193,13 @@
 				var detForm = document.getElementById("detail-form");
 				detForm.addEventListener("submit", function (event) {
 					event.preventDefault();
+					if ($("#amount").val() <= 0) {
+						$("#form1-errors p").html("Amount cannot be 0.");
+						setTimeout(function () {
+							$("#form1-errors p").html("");
+						}, 5000);
+						return false;
+					}
 					$("#global-loader-cont").show();
 					$.ajax({
 						type: "POST",
@@ -332,7 +343,8 @@
 										id="amount"
 										type="number"
 										name="amount"
-										min="1"
+										min="0"
+										step="5"
 										class="form-control"
 										placeholder="Donation amount (USD)"
 										required
