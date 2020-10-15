@@ -46,7 +46,7 @@
 
 			.form-group input,
 			.form-group textarea {
-				background: none repeat scroll 0 0 #222222 !important;
+				background: none repeat scroll 0 0 #000000 !important;
 			}
 
 			body {
@@ -63,7 +63,7 @@
 				padding: 10px 12px;
 				border: 1px solid #cccccc;
 				border-radius: 0px;
-				background-color: #222222;
+				background-color: #000000;
 				box-shadow: 0 0px 1px 0 #cccccc;
 				-webkit-transition: box-shadow 150ms ease;
 				transition: box-shadow 150ms ease;
@@ -149,6 +149,13 @@
 				color: #1693a5;
 				font-family: "Open Sans", "serif";
 			}
+			.increment,
+			.decrement, .increment:hover, .decrement:hover, .increment:focus, .decrement:focus, .increment:active, .decrement:active {
+				font-size: 20px !important;
+				border: 1px solid #cccccc !important;
+				outline: 0;
+			}
+
 		</style>
 		<script>
 			$(document).ready(function () {
@@ -194,12 +201,16 @@
 				detForm.addEventListener("submit", function (event) {
 					event.preventDefault();
 					if ($("#amount").val() <= 0) {
-						$("#form1-errors p").html("Amount cannot be 0.");
+						$("#form1-errors p").html("Amount should be greater than 0.");
 						setTimeout(function () {
 							$("#form1-errors p").html("");
 						}, 5000);
 						return false;
 					}
+					if(!isNumber($("#amount").val(), "#form1-errors p")){
+						return false;
+					}
+
 					$("#global-loader-cont").show();
 					$.ajax({
 						type: "POST",
@@ -300,6 +311,55 @@
 					});
 				}
 
+				$("#increment-btn").on("click", function () {
+					let value = $("#amount").val();
+					if(!isNumber(value, "#form1-errors p")) {
+						return false;
+					}
+					if(parseFloat(value) < 0){
+						value = value * -1;
+					}
+					value = (value == "") ? "0.00" : value;
+					let updatedVal = 0;
+					if(parseFloat(value) % 5 == 0 ){
+						updatedVal = parseFloat(value) + 5.00;
+					}
+					else {
+						updatedVal = Math.ceil(value / 5) * 5;
+					}
+					$("#amount").val(updatedVal.toFixed(2));
+				});
+
+				$("#decrement-btn").on("click", function () {
+					let value = $("#amount").val();
+					if(!isNumber(value, "#form1-errors p")) {
+						return false;
+					}
+					if(parseFloat(value) < 0){
+						value = value * -1;
+					}
+					value = (value == 0 || value == "" || value == "5.00") ? "0.00" : value;
+					let updatedVal = 0;
+					if(parseFloat(value) % 5 == 0 && parseFloat(value) != 0){
+						updatedVal = parseFloat(value) - 5.00;
+					}
+					else {
+						updatedVal = Math.floor(value / 5) * 5;
+					}
+					$("#amount").val(updatedVal.toFixed(2));
+				});
+
+				function isNumber(value, error_elem){
+					if(isNaN(value)){
+						$(error_elem).html("Amount should be a number.");
+						setTimeout(function () {
+							$(error_elem).html("");
+						}, 10000);
+						return false;
+					}
+					return true;
+				}
+
 				$("#global-loader-cont").hide();
 			});
 		</script>
@@ -341,17 +401,30 @@
 								<div class="input-group mb-3">
 									<input
 										id="amount"
-										type="number"
+										type="text"
 										name="amount"
-										min="0"
-										step="5"
 										class="form-control"
 										placeholder="Donation amount (USD)"
 										required
 										aria-label="Amount"
 										aria-describedby="basic-addon2"
+										value="0.00"
 									/>
 									<div class="input-group-append">
+										<button
+										class="btn btn-outline-secondary px-4 increment"
+										type="button"
+										id="increment-btn"
+										>
+										&#8593;
+										</button>
+										<button
+											class="btn btn-outline-secondary px-4 decrement"
+											type="button"
+											id="decrement-btn"
+										>
+										&#8595;
+										</button>
 										<span class="input-group-text" id="basic-addon2">USD</span>
 									</div>
 								</div>
@@ -370,7 +443,8 @@
 					<div id="donate-form2">
 						<!-- <h1 class="text-center">Complete your donation</h1> -->
 						<h5 class="text-center">
-							Please enter payment details below to complete the donation.
+							Please enter payment details below to complete the donation.<br/><br/>
+							Processed through <i>Stripe</i>, a secure & standard payments gateway.
 						</h5>
 						<form method="POST" id="payment-form">
 							<div id="form2-errors">
@@ -399,7 +473,7 @@
 					</div>
 					<div id="donate-form3">
 						<!-- <h1 class="text-center">Thanks!</h1> -->
-						<h5 class="text-center">Thanks for supporting <i>#planthro</i>.</h5>
+						<h5 class="text-center">Thanks for supporting <i class="planthro-color">#planthro</i>.</h5>
 					</div>
 				</div>
 			</div>
