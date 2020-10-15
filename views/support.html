@@ -200,8 +200,8 @@
 				var detForm = document.getElementById("detail-form");
 				detForm.addEventListener("submit", function (event) {
 					event.preventDefault();
-					if ($("#amount").val() <= 0) {
-						$("#form1-errors p").html("Amount should be greater than 0.");
+					if ($("#amount").val() < 0.50) {
+						$("#form1-errors p").html("Amount should be greater than $0.50");
 						setTimeout(function () {
 							$("#form1-errors p").html("");
 						}, 5000);
@@ -239,7 +239,7 @@
 						error: function (jqXHR, textStatus, errorThrown) {
 							console.log(textStatus + errorThrown);
 							var data = jqXHR.responseJSON;
-							if (typeof data.error[0] != "undefined") {
+							if (typeof data.error == 'object' && typeof data.error[0] != "undefined") {
 								$("#form1-errors p").html(
 									data.error[0].param +
 										" : " +
@@ -247,6 +247,9 @@
 										" " +
 										data.error[0].value
 								);
+							}
+							else if (typeof data.error == 'string') {
+								$("#form1-errors p").html(data.error);
 							}
 							$("#global-loader-cont").hide();
 						},
@@ -338,7 +341,7 @@
 					if(parseFloat(value) < 0){
 						value = value * -1;
 					}
-					value = (value == 0 || value == "" || value == "5.00") ? "0.00" : value;
+					value = (value == 0 || value == "" || value == "5.00") ? "0.50" : value;
 					let updatedVal = 0;
 					if(parseFloat(value) % 5 == 0 && parseFloat(value) != 0){
 						updatedVal = parseFloat(value) - 5.00;
@@ -346,6 +349,8 @@
 					else {
 						updatedVal = Math.floor(value / 5) * 5;
 					}
+					updatedVal = (updatedVal <= 0) ? 0.50 : updatedVal;
+
 					$("#amount").val(updatedVal.toFixed(2));
 				});
 
