@@ -9,10 +9,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.engine("html", require("ejs").renderFile);
 app.set("views", __dirname + "/views");
 
-const stripe_secret =
-	process.env.STRIPE_SECRET_KEY || "sk_test_sHcyJYvLwQVBqnfJxOxrGzCr";
-const stripe_publishable =
-	process.env.STRIPE_PUBLISHABLE_KEY || "pk_test_nqFcBu8J8qABVCsaic2fsQiL";
+const stripe_secret = process.env.STRIPE_SECRET_KEY;
+const stripe_publishable = process.env.STRIPE_PUBLISHABLE_KEY;
 
 app.get("/", cors(), function (req, res) {
 	res.render("support.html");
