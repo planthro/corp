@@ -1142,7 +1142,7 @@ text-transform:capitalize;
 	height: 36px;
 }
 .footerCenter li a span {
-    color: #484848;
+    color: #888888;
 	text-decoration: none;
 }
 .footerCenter li a span:hover, .footerCenter li a:focus {
@@ -2460,7 +2460,7 @@ text-align: center;
     <!-- section TITLE -->
       <div class='sectionTitle wow fadeInUp animated' style='visibility: visible;'>
         <h1 style='color: #cccccc;'>Donate</h1>
-        <h4 style='color: #cccccc;'>to <i class='resumeName' style='color: #cccccc;'>#planthro</i></h4>
+        <h4 style='color: #cccccc;'>to <i class='resumeName' style='color: #1693A5;'>#planthro</i></h4>
         <hr/>
       </div>
     <!-- END section TITLE -->
@@ -3600,7 +3600,7 @@ text-align: center;
       <div class='contactBox'>
       <div class='icon lnr lnr-pencil'/>
       <h3>Email</h3>
-      <p>info at ...</p>
+      <p>info@...</p>
       </div>
 
 
@@ -4668,20 +4668,20 @@ div.custom-popup::-webkit-scrollbar-thumb {
           <h2>Privacy Policy</h2>
           <div class='custom-wid-cloud-label' id='custom-wid-labels-list'>
             <p>
-            Platform anthropocene Inc. (#planthro) operates the group of *.planthro.org websites, which provides the Service to the visitors and users of these websites.
+            Platform anthropocene Inc. (#planthro) operates the group of *.planthro.org websites, which provide the Service to the visitors and users of these websites.
             <br/><br/>
             If the visitors and users of these websites choose to use the Service provided by #planthro, then they agree to the limited collection and use of information as described further in this Privacy Policy. Any personal information that #planthro collects is used for providing and improving the Service. #planthro will not use or share such information with anyone except as described in this Privacy Policy.
             <br/><br/>
             Information Collection and Use<br/>
-            For a better experience while using the Service, #planthro may require visitors and users of these websites to provide certain personally identifiable information, including but not limited to their location, browser type, and IP address. The information that #planthro collects will not be used to contact or specifically identify visitors or users of these websites.
+            For a better experience while using the Service, #planthro may require visitors and users of these websites to provide Personal Information, including but not limited to their location, browser type, and IP address. The information that #planthro collects will not be used to contact or specifically identify visitors or users of these websites.
             <br/><br/>
             Log Data<br/>
-            #planthro informs the visitors and users of these websites that whenever they visit any of the group of *.planthro.org websites and thereby use the Service provided, #planthro collects information that the browser sends to us that is called Log Data. This Log Data may include information such as Internet Protocol (&quot;IP&quot;) address of the computer used, browser version, the particular pages of our Service visited, the time, date, and duration of the use of Service, and other similar statistics.
+            #planthro informs the visitors and users of these websites that whenever they visit any of the group of *.planthro.org websites and thereby use the Service provided, their information is collected and sent by the browser via Log Data. This Log Data may include information such as Internet Protocol (&quot;IP&quot;) address of the computer used, browser version, the particular pages of our Service visited, the time, date, and duration of the use of Service, and other similar statistics.
             <br/><br/>
             Cookies<br/>
-            Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer&#8217;s hard drive.
+            Cookies are files with small amounts of data that are commonly used as anonymous unique identifiers. These are sent to your browser by the visited website and are stored on your computer&#8217;s hard drive.
             <br/><br/>
-            *.planthro.org  websites use cookies to collect information and to improve the Service. Visitors and users of these websites have the option to either accept or refuse these cookies, and know when a cookie is being sent to their computer. If they choose to refuse these cookies, they may not be able to use some portions of the Service.
+            *.planthro.org  websites use cookies to collect information and to improve the Service. Visitors and users of these websites have the option to either accept or refuse these cookies, being informed as to when a cookie is being sent to their computer. If they choose to refuse these cookies, they may not be able to use some portions of the Service.
             <br/><br/>
             Service Providers<br/>
             #planthro may employ third-party companies and individuals due to the following reasons:
@@ -4691,19 +4691,19 @@ div.custom-popup::-webkit-scrollbar-thumb {
             to perform Service-related services; or<br/>
             to assist us in analyzing how our Service is used.
             <br/><br/>
-            #planthro informs the visitors and users of these websites that these third parties have limited access to Personal Information of the visitors and users. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+            #planthro informs the visitors and users of these websites that these third parties have limited access to Personal Information of the visitors and users, in order to perform tasks assigned to them on our behalf. Third parties are not allowed to disclose or use the information for any other purpose.
             <br/><br/>
             Security<br/>
-            #planthro values trust of the visitors and users of these websites, in providing us with their limited Personal Information. Thus #planthro is striving to use standard and acceptable means of protecting it. But #planthro would like to remind visitors and users of these websites that no method of transmission over the Internet, or method of electronic storage is 100% secure and reliable, and #planthro cannot guarantee its absolute security.
+            #planthro values the trust of the visitors and users of these websites, in providing us with their limited Personal Information, and strives to use standard and acceptable means of protecting this information. #planthro would like to remind visitors and users of these websites that no method of transmission over the Internet, or method of electronic storage is 100% secure and reliable, and #planthro cannot guarantee its absolute security.
             <br/><br/>
             Links to Other Sites<br/>
             Service provided by #planthro contains links to other websites. If visitors or users of these websites click on a third-party link, they will be directed to that website. Note that these external websites are not operated by #planthro. Therefore, #planthro strongly advises visitors and users to review the Privacy Policy of these websites. #planthro has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third-party websites or services.
             <br/><br/>
             Changes to this Privacy Policy<br/>
-            #planthro may update our Privacy Policy from time-to-time. Thus, #planthro would advise visitors and users to review this page periodically for any changes. As much as possible in the available capacity, #planthro will notify visitors and users of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+            #planthro may update our Privacy Policy from time-to-time. Thus, #planthro would advise visitors and users to review this page periodically for any changes. As much as possible in the available capacity, #planthro will notify visitors and users of any changes by posting the new Privacy Policy on this page. These changes are effective immediately as they are posted on this page.
             <br/><br/>
             Contact #planthro<br/>
-            If you have any questions or suggestions about our Privacy Policy, please contact us at the address provided in the Contact section.
+            If you have any questions or suggestions about our Privacy Policy, you may reach out to us by email on info@... or using the contact form on www.planthro.org.
           </p>
 
 
