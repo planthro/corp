@@ -1,2 +1,3 @@
 # corp
-#planthro Platform anthropocene Inc. corporate pages
+#planthro Platform anthropocene Inc. corporate website
+www.planthro.org
