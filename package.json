@@ -17,5 +17,8 @@
 	"devDependencies": {
 		"nodemon": "1.18.4"
 	},
-	"keywords": []
+	"keywords": [],
+	"engines": {
+	    "node": "22.x"
+	}
 }
